@@ -6,10 +6,10 @@ import math
 from tqdm import tqdm
 
 
-DEFENDERS_DF = pd.read_csv("marcos_degenerates.csv", na_values=None)
+DEFENDERS_DF = pd.read_csv("data/marcos_degenerates.csv", na_values=None)
 DEFENDERS_DF = DEFENDERS_DF.fillna(np.nan).replace([np.nan], [None])
 
-WEAPON_PROFILES_DF = pd.read_csv("weapon_profiles.csv", na_values=None)
+WEAPON_PROFILES_DF = pd.read_csv("data/weapon_profiles.csv", na_values=None)
 WEAPON_PROFILES_DF = WEAPON_PROFILES_DF.fillna(np.nan).replace([np.nan], [None])
 
 FILE_PATH = "results.txt"
