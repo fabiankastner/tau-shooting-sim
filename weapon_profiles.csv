@@ -1,0 +1,27 @@
+unit_name,weapon_name,n,a,bs,s,ap,d,abilities
+fireknife,rockets,6,2,4,7,1,2,reroll_hit
+fireknife,plasma,6,1,4,8,3,3,reroll_hit
+fireknife,gun_drone,3,2,5,5,0,1,reroll_wound
+enforcer_fireknife,rockets,4,2,3,7,1,2,reroll_hit
+enforcer_fireknife,plasma,4,1,3,8,3,3,reroll_hit
+sunforge,fusion_blaster,6,1,4,9,4,d6,reroll_wound_vm;reroll_d_vm
+sunforge,fusion_blaster melta,6,1,4,9,4,d6+2,reroll_wound_vm;reroll_d_vm
+sunforge,gun_drone,3,2,5,5,0,1,reroll_wound
+coldstar_sunforge,fusion_blaster,3,1,3,9,4,d6,reroll_wound_vm;reroll_d_vm
+starscythe,burst_cannon,6,4,4,5,0,1,nvm_ap+1
+starscythe,gun_drone,3,2,5,5,0,1,reroll_wound
+coldstar_starscythe,burst_cannon,5,4,3,5,0,1,nvm_ap+1
+riptide,ion_accelerator,1,6,4,7,2,3,
+riptide,ion_accelerator_overcharged,1,6,4,8,3,4,
+riptide,ion_accelerator_overcharged_nova,1,6,4,9,4,4,dev_wounds
+riptide,heavy_burst_cannon,1,12,4,6,1,2,
+riptide,heavy_burst_cannon_nova,1,12,4,6,1,2,dev_wounds
+riptide,missile_drone,2,2,5,7,1,2,
+broadside,heavy_rail_rifle,1,2,4,12,4,d6+1,
+broadside,heavy_rail_rifle_heavy_,1,2,3,12,4,d6+1,dev_wounds
+broadside,missile_drone,2,2,5,7,1,2,
+ghostkeel,cyclic_ion_raker,1,6,4,7,1,2,
+ghostkeel,cyclic_ion_raker_overcharged,1,6,4,8,2,3,
+ghostkeel,fusion_collider,1,2,4,12,4,d6
+ghostkeel,fusion_collider_melta,1,2,4,12,4,d6+2
+breacher_team,pulse_blaster_enhanced,10,3,3,6,1,1,reroll_wound;crit_ap_3

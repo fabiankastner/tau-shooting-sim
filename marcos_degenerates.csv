@@ -1,0 +1,13 @@
+unit_name,vehicle_or_monster,n_models,t,sv,w,iv,feel_no_pain,abilities
+blood_claws,false,10,4,3,2,,,
+bladeguard_veteran_squad,false,6,4,3,3,4,,reroll_sv_1
+terminator_squad,false,5,5,2,3,4,,
+wulfen,false,10,5,4,2,,6,
+thunderwolf_cavalry,false,6,6,3,4,4,,
+brutalis_dreadnaught,true,1,10,2,12,,,
+wulfen_dreadnaught,true,1,9,2,8,4,6,
+eliminators,false,3,4,3,2,,,stealth
+eredicators,false,3,6,3,3,,,
+invictor_tactical warsuit,true,1,8,3,12,,,
+bjoern_the_fell_handed,true,1,9,2,8,,5,legendary_tenacity
+stormwolf,true,1,10,3,14,,,

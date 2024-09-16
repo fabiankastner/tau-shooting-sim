@@ -1,0 +1,1081 @@
+,attacker_name,defender_name,weapon_profile,guided,retaliation_cadre_strength,stealth_suit_rerolls,retaliation_cadre_ap,score
+0,starscythe,blood_claws_10,burst_cannon,no,no,no,no,0.35
+1,starscythe,blood_claws_10,burst_cannon,guided,no,no,no,0.42
+2,starscythe,blood_claws_10,burst_cannon,guided,strength+1,no,no,0.43
+3,starscythe,blood_claws_10,burst_cannon,guided,strength+1,no,ap+1,0.59
+4,starscythe,blood_claws_10,burst_cannon,guided,strength+1,stealth_rerolls,ap+1,0.82
+5,starscythe,blood_claws_10,gun_drone,no,no,no,no,0.04
+6,starscythe,blood_claws_10,gun_drone,guided,no,no,no,0.09
+7,starscythe,blood_claws_10,gun_drone,guided,strength+1,no,no,0.08
+8,starscythe,blood_claws_10,gun_drone,guided,strength+1,no,ap+1,0.11
+9,starscythe,blood_claws_10,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.13
+10,starscythe,bladeguard_veteran_squad_6,burst_cannon,no,no,no,no,0.39
+11,starscythe,bladeguard_veteran_squad_6,burst_cannon,guided,no,no,no,0.51
+12,starscythe,bladeguard_veteran_squad_6,burst_cannon,guided,strength+1,no,no,0.55
+13,starscythe,bladeguard_veteran_squad_6,burst_cannon,guided,strength+1,no,ap+1,0.52
+14,starscythe,bladeguard_veteran_squad_6,burst_cannon,guided,strength+1,stealth_rerolls,ap+1,0.69
+15,starscythe,bladeguard_veteran_squad_6,gun_drone,no,no,no,no,0.05
+16,starscythe,bladeguard_veteran_squad_6,gun_drone,guided,no,no,no,0.07
+17,starscythe,bladeguard_veteran_squad_6,gun_drone,guided,strength+1,no,no,0.07
+18,starscythe,bladeguard_veteran_squad_6,gun_drone,guided,strength+1,no,ap+1,0.15
+19,starscythe,bladeguard_veteran_squad_6,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.18
+20,starscythe,terminator_squad_5,burst_cannon,no,no,no,no,0.3
+21,starscythe,terminator_squad_5,burst_cannon,guided,no,no,no,0.4
+22,starscythe,terminator_squad_5,burst_cannon,guided,strength+1,no,no,0.54
+23,starscythe,terminator_squad_5,burst_cannon,guided,strength+1,no,ap+1,0.75
+24,starscythe,terminator_squad_5,burst_cannon,guided,strength+1,stealth_rerolls,ap+1,0.82
+25,starscythe,terminator_squad_5,gun_drone,no,no,no,no,0.03
+26,starscythe,terminator_squad_5,gun_drone,guided,no,no,no,0.04
+27,starscythe,terminator_squad_5,gun_drone,guided,strength+1,no,no,0.06
+28,starscythe,terminator_squad_5,gun_drone,guided,strength+1,no,ap+1,0.16
+29,starscythe,terminator_squad_5,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.14
+30,starscythe,wulfen_10,burst_cannon,no,no,no,no,0.3
+31,starscythe,wulfen_10,burst_cannon,guided,no,no,no,0.43
+32,starscythe,wulfen_10,burst_cannon,guided,strength+1,no,no,0.57
+33,starscythe,wulfen_10,burst_cannon,guided,strength+1,no,ap+1,0.7
+34,starscythe,wulfen_10,burst_cannon,guided,strength+1,stealth_rerolls,ap+1,0.9
+35,starscythe,wulfen_10,gun_drone,no,no,no,no,0.05
+36,starscythe,wulfen_10,gun_drone,guided,no,no,no,0.09
+37,starscythe,wulfen_10,gun_drone,guided,strength+1,no,no,0.11
+38,starscythe,wulfen_10,gun_drone,guided,strength+1,no,ap+1,0.15
+39,starscythe,wulfen_10,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.16
+40,starscythe,thunderwolf_cavalry_6,burst_cannon,no,no,no,no,0.21
+41,starscythe,thunderwolf_cavalry_6,burst_cannon,guided,no,no,no,0.27
+42,starscythe,thunderwolf_cavalry_6,burst_cannon,guided,strength+1,no,no,0.41
+43,starscythe,thunderwolf_cavalry_6,burst_cannon,guided,strength+1,no,ap+1,0.36
+44,starscythe,thunderwolf_cavalry_6,burst_cannon,guided,strength+1,stealth_rerolls,ap+1,0.57
+45,starscythe,thunderwolf_cavalry_6,gun_drone,no,no,no,no,0.03
+46,starscythe,thunderwolf_cavalry_6,gun_drone,guided,no,no,no,0.05
+47,starscythe,thunderwolf_cavalry_6,gun_drone,guided,strength+1,no,no,0.05
+48,starscythe,thunderwolf_cavalry_6,gun_drone,guided,strength+1,no,ap+1,0.09
+49,starscythe,thunderwolf_cavalry_6,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.12
+50,starscythe,brutalis_dreadnaught,burst_cannon,no,no,no,no,0.09
+51,starscythe,brutalis_dreadnaught,burst_cannon,guided,no,no,no,0.13
+52,starscythe,brutalis_dreadnaught,burst_cannon,guided,strength+1,no,no,0.3
+53,starscythe,brutalis_dreadnaught,burst_cannon,guided,strength+1,no,ap+1,0.48
+54,starscythe,brutalis_dreadnaught,burst_cannon,guided,strength+1,stealth_rerolls,ap+1,0.59
+55,starscythe,brutalis_dreadnaught,gun_drone,no,no,no,no,0.03
+56,starscythe,brutalis_dreadnaught,gun_drone,guided,no,no,no,0.09
+57,starscythe,brutalis_dreadnaught,gun_drone,guided,strength+1,no,no,0.09
+58,starscythe,brutalis_dreadnaught,gun_drone,guided,strength+1,no,ap+1,0.13
+59,starscythe,brutalis_dreadnaught,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.18
+60,starscythe,wulfen_dreadnaught,burst_cannon,no,no,no,no,0.19
+61,starscythe,wulfen_dreadnaught,burst_cannon,guided,no,no,no,0.26
+62,starscythe,wulfen_dreadnaught,burst_cannon,guided,strength+1,no,no,0.35
+63,starscythe,wulfen_dreadnaught,burst_cannon,guided,strength+1,no,ap+1,0.54
+64,starscythe,wulfen_dreadnaught,burst_cannon,guided,strength+1,stealth_rerolls,ap+1,0.69
+65,starscythe,wulfen_dreadnaught,gun_drone,no,no,no,no,0.06
+66,starscythe,wulfen_dreadnaught,gun_drone,guided,no,no,no,0.11
+67,starscythe,wulfen_dreadnaught,gun_drone,guided,strength+1,no,no,0.09
+68,starscythe,wulfen_dreadnaught,gun_drone,guided,strength+1,no,ap+1,0.19
+69,starscythe,wulfen_dreadnaught,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.28
+70,starscythe,eliminators_3,burst_cannon,no,no,no,no,0.88
+71,starscythe,eliminators_3,burst_cannon,guided,no,no,no,0.94
+72,starscythe,eliminators_3,burst_cannon,guided,strength+1,no,no,0.93
+73,starscythe,eliminators_3,burst_cannon,guided,strength+1,no,ap+1,0.98
+74,starscythe,eliminators_3,burst_cannon,guided,strength+1,stealth_rerolls,ap+1,1.0
+75,starscythe,eliminators_3,gun_drone,no,no,no,no,0.16
+76,starscythe,eliminators_3,gun_drone,guided,no,no,no,0.26
+77,starscythe,eliminators_3,gun_drone,guided,strength+1,no,no,0.26
+78,starscythe,eliminators_3,gun_drone,guided,strength+1,no,ap+1,0.34
+79,starscythe,eliminators_3,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.45
+80,starscythe,eredicators_3,burst_cannon,no,no,no,no,0.43
+81,starscythe,eredicators_3,burst_cannon,guided,no,no,no,0.65
+82,starscythe,eredicators_3,burst_cannon,guided,strength+1,no,no,0.8
+83,starscythe,eredicators_3,burst_cannon,guided,strength+1,no,ap+1,0.87
+84,starscythe,eredicators_3,burst_cannon,guided,strength+1,stealth_rerolls,ap+1,0.98
+85,starscythe,eredicators_3,gun_drone,no,no,no,no,0.07
+86,starscythe,eredicators_3,gun_drone,guided,no,no,no,0.18
+87,starscythe,eredicators_3,gun_drone,guided,strength+1,no,no,0.17
+88,starscythe,eredicators_3,gun_drone,guided,strength+1,no,ap+1,0.29
+89,starscythe,eredicators_3,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.33
+90,starscythe,invictor_tactical warsuit,burst_cannon,no,no,no,no,0.34
+91,starscythe,invictor_tactical warsuit,burst_cannon,guided,no,no,no,0.5
+92,starscythe,invictor_tactical warsuit,burst_cannon,guided,strength+1,no,no,0.52
+93,starscythe,invictor_tactical warsuit,burst_cannon,guided,strength+1,no,ap+1,0.63
+94,starscythe,invictor_tactical warsuit,burst_cannon,guided,strength+1,stealth_rerolls,ap+1,0.83
+95,starscythe,invictor_tactical warsuit,gun_drone,no,no,no,no,0.11
+96,starscythe,invictor_tactical warsuit,gun_drone,guided,no,no,no,0.16
+97,starscythe,invictor_tactical warsuit,gun_drone,guided,strength+1,no,no,0.19
+98,starscythe,invictor_tactical warsuit,gun_drone,guided,strength+1,no,ap+1,0.22
+99,starscythe,invictor_tactical warsuit,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.29
+100,starscythe,bjoern_the_fell_handed,burst_cannon,no,no,no,no,0.11
+101,starscythe,bjoern_the_fell_handed,burst_cannon,guided,no,no,no,0.14
+102,starscythe,bjoern_the_fell_handed,burst_cannon,guided,strength+1,no,no,0.17
+103,starscythe,bjoern_the_fell_handed,burst_cannon,guided,strength+1,no,ap+1,0.33
+104,starscythe,bjoern_the_fell_handed,burst_cannon,guided,strength+1,stealth_rerolls,ap+1,0.47
+105,starscythe,bjoern_the_fell_handed,gun_drone,no,no,no,no,0.03
+106,starscythe,bjoern_the_fell_handed,gun_drone,guided,no,no,no,0.05
+107,starscythe,bjoern_the_fell_handed,gun_drone,guided,strength+1,no,no,0.06
+108,starscythe,bjoern_the_fell_handed,gun_drone,guided,strength+1,no,ap+1,0.09
+109,starscythe,bjoern_the_fell_handed,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.1
+110,starscythe,stormwolf,burst_cannon,no,no,no,no,0.17
+111,starscythe,stormwolf,burst_cannon,guided,no,no,no,0.25
+112,starscythe,stormwolf,burst_cannon,guided,strength+1,no,no,0.41
+113,starscythe,stormwolf,burst_cannon,guided,strength+1,no,ap+1,0.59
+114,starscythe,stormwolf,burst_cannon,guided,strength+1,stealth_rerolls,ap+1,0.74
+115,starscythe,stormwolf,gun_drone,no,no,no,no,0.07
+116,starscythe,stormwolf,gun_drone,guided,no,no,no,0.11
+117,starscythe,stormwolf,gun_drone,guided,strength+1,no,no,0.13
+118,starscythe,stormwolf,gun_drone,guided,strength+1,no,ap+1,0.24
+119,starscythe,stormwolf,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.24
+120,fireknife,blood_claws_10,rockets,no,no,no,no,0.24
+121,fireknife,blood_claws_10,rockets,guided,no,no,no,0.3
+122,fireknife,blood_claws_10,rockets,guided,strength+1,no,no,0.29
+123,fireknife,blood_claws_10,rockets,guided,strength+1,no,ap+1,0.42
+124,fireknife,blood_claws_10,rockets,guided,strength+1,stealth_rerolls,ap+1,0.49
+125,fireknife,blood_claws_10,plasma,no,no,no,no,0.22
+126,fireknife,blood_claws_10,plasma,guided,no,no,no,0.26
+127,fireknife,blood_claws_10,plasma,guided,strength+1,no,no,0.24
+128,fireknife,blood_claws_10,plasma,guided,strength+1,no,ap+1,0.31
+129,fireknife,blood_claws_10,plasma,guided,strength+1,stealth_rerolls,ap+1,0.35
+130,fireknife,blood_claws_10,gun_drone,no,no,no,no,0.06
+131,fireknife,blood_claws_10,gun_drone,guided,no,no,no,0.06
+132,fireknife,blood_claws_10,gun_drone,guided,strength+1,no,no,0.07
+133,fireknife,blood_claws_10,gun_drone,guided,strength+1,no,ap+1,0.1
+134,fireknife,blood_claws_10,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.11
+135,fireknife,bladeguard_veteran_squad_6,rockets,no,no,no,no,0.3
+136,fireknife,bladeguard_veteran_squad_6,rockets,guided,no,no,no,0.34
+137,fireknife,bladeguard_veteran_squad_6,rockets,guided,strength+1,no,no,0.35
+138,fireknife,bladeguard_veteran_squad_6,rockets,guided,strength+1,no,ap+1,0.35
+139,fireknife,bladeguard_veteran_squad_6,rockets,guided,strength+1,stealth_rerolls,ap+1,0.43
+140,fireknife,bladeguard_veteran_squad_6,plasma,no,no,no,no,0.16
+141,fireknife,bladeguard_veteran_squad_6,plasma,guided,no,no,no,0.18
+142,fireknife,bladeguard_veteran_squad_6,plasma,guided,strength+1,no,no,0.19
+143,fireknife,bladeguard_veteran_squad_6,plasma,guided,strength+1,no,ap+1,0.14
+144,fireknife,bladeguard_veteran_squad_6,plasma,guided,strength+1,stealth_rerolls,ap+1,0.19
+145,fireknife,bladeguard_veteran_squad_6,gun_drone,no,no,no,no,0.05
+146,fireknife,bladeguard_veteran_squad_6,gun_drone,guided,no,no,no,0.06
+147,fireknife,bladeguard_veteran_squad_6,gun_drone,guided,strength+1,no,no,0.06
+148,fireknife,bladeguard_veteran_squad_6,gun_drone,guided,strength+1,no,ap+1,0.13
+149,fireknife,bladeguard_veteran_squad_6,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.19
+150,fireknife,terminator_squad_5,rockets,no,no,no,no,0.28
+151,fireknife,terminator_squad_5,rockets,guided,no,no,no,0.31
+152,fireknife,terminator_squad_5,rockets,guided,strength+1,no,no,0.33
+153,fireknife,terminator_squad_5,rockets,guided,strength+1,no,ap+1,0.53
+154,fireknife,terminator_squad_5,rockets,guided,strength+1,stealth_rerolls,ap+1,0.6
+155,fireknife,terminator_squad_5,plasma,no,no,no,no,0.19
+156,fireknife,terminator_squad_5,plasma,guided,no,no,no,0.26
+157,fireknife,terminator_squad_5,plasma,guided,strength+1,no,no,0.27
+158,fireknife,terminator_squad_5,plasma,guided,strength+1,no,ap+1,0.21
+159,fireknife,terminator_squad_5,plasma,guided,strength+1,stealth_rerolls,ap+1,0.29
+160,fireknife,terminator_squad_5,gun_drone,no,no,no,no,0.03
+161,fireknife,terminator_squad_5,gun_drone,guided,no,no,no,0.06
+162,fireknife,terminator_squad_5,gun_drone,guided,strength+1,no,no,0.05
+163,fireknife,terminator_squad_5,gun_drone,guided,strength+1,no,ap+1,0.13
+164,fireknife,terminator_squad_5,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.14
+165,fireknife,wulfen_10,rockets,no,no,no,no,0.32
+166,fireknife,wulfen_10,rockets,guided,no,no,no,0.38
+167,fireknife,wulfen_10,rockets,guided,strength+1,no,no,0.35
+168,fireknife,wulfen_10,rockets,guided,strength+1,no,ap+1,0.49
+169,fireknife,wulfen_10,rockets,guided,strength+1,stealth_rerolls,ap+1,0.55
+170,fireknife,wulfen_10,plasma,no,no,no,no,0.24
+171,fireknife,wulfen_10,plasma,guided,no,no,no,0.29
+172,fireknife,wulfen_10,plasma,guided,strength+1,no,no,0.29
+173,fireknife,wulfen_10,plasma,guided,strength+1,no,ap+1,0.28
+174,fireknife,wulfen_10,plasma,guided,strength+1,stealth_rerolls,ap+1,0.32
+175,fireknife,wulfen_10,gun_drone,no,no,no,no,0.05
+176,fireknife,wulfen_10,gun_drone,guided,no,no,no,0.09
+177,fireknife,wulfen_10,gun_drone,guided,strength+1,no,no,0.1
+178,fireknife,wulfen_10,gun_drone,guided,strength+1,no,ap+1,0.14
+179,fireknife,wulfen_10,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.16
+180,fireknife,thunderwolf_cavalry_6,rockets,no,no,no,no,0.28
+181,fireknife,thunderwolf_cavalry_6,rockets,guided,no,no,no,0.35
+182,fireknife,thunderwolf_cavalry_6,rockets,guided,strength+1,no,no,0.33
+183,fireknife,thunderwolf_cavalry_6,rockets,guided,strength+1,no,ap+1,0.36
+184,fireknife,thunderwolf_cavalry_6,rockets,guided,strength+1,stealth_rerolls,ap+1,0.36
+185,fireknife,thunderwolf_cavalry_6,plasma,no,no,no,no,0.15
+186,fireknife,thunderwolf_cavalry_6,plasma,guided,no,no,no,0.21
+187,fireknife,thunderwolf_cavalry_6,plasma,guided,strength+1,no,no,0.17
+188,fireknife,thunderwolf_cavalry_6,plasma,guided,strength+1,no,ap+1,0.15
+189,fireknife,thunderwolf_cavalry_6,plasma,guided,strength+1,stealth_rerolls,ap+1,0.17
+190,fireknife,thunderwolf_cavalry_6,gun_drone,no,no,no,no,0.03
+191,fireknife,thunderwolf_cavalry_6,gun_drone,guided,no,no,no,0.04
+192,fireknife,thunderwolf_cavalry_6,gun_drone,guided,strength+1,no,no,0.09
+193,fireknife,thunderwolf_cavalry_6,gun_drone,guided,strength+1,no,ap+1,0.1
+194,fireknife,thunderwolf_cavalry_6,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.14
+195,fireknife,brutalis_dreadnaught,rockets,no,no,no,no,0.29
+196,fireknife,brutalis_dreadnaught,rockets,guided,no,no,no,0.32
+197,fireknife,brutalis_dreadnaught,rockets,guided,strength+1,no,no,0.3
+198,fireknife,brutalis_dreadnaught,rockets,guided,strength+1,no,ap+1,0.5
+199,fireknife,brutalis_dreadnaught,rockets,guided,strength+1,stealth_rerolls,ap+1,0.55
+200,fireknife,brutalis_dreadnaught,plasma,no,no,no,no,0.3
+201,fireknife,brutalis_dreadnaught,plasma,guided,no,no,no,0.35
+202,fireknife,brutalis_dreadnaught,plasma,guided,strength+1,no,no,0.38
+203,fireknife,brutalis_dreadnaught,plasma,guided,strength+1,no,ap+1,0.45
+204,fireknife,brutalis_dreadnaught,plasma,guided,strength+1,stealth_rerolls,ap+1,0.51
+205,fireknife,brutalis_dreadnaught,gun_drone,no,no,no,no,0.03
+206,fireknife,brutalis_dreadnaught,gun_drone,guided,no,no,no,0.03
+207,fireknife,brutalis_dreadnaught,gun_drone,guided,strength+1,no,no,0.08
+208,fireknife,brutalis_dreadnaught,gun_drone,guided,strength+1,no,ap+1,0.19
+209,fireknife,brutalis_dreadnaught,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.2
+210,fireknife,wulfen_dreadnaught,rockets,no,no,no,no,0.38
+211,fireknife,wulfen_dreadnaught,rockets,guided,no,no,no,0.42
+212,fireknife,wulfen_dreadnaught,rockets,guided,strength+1,no,no,0.35
+213,fireknife,wulfen_dreadnaught,rockets,guided,strength+1,no,ap+1,0.58
+214,fireknife,wulfen_dreadnaught,rockets,guided,strength+1,stealth_rerolls,ap+1,0.59
+215,fireknife,wulfen_dreadnaught,plasma,no,no,no,no,0.26
+216,fireknife,wulfen_dreadnaught,plasma,guided,no,no,no,0.33
+217,fireknife,wulfen_dreadnaught,plasma,guided,strength+1,no,no,0.47
+218,fireknife,wulfen_dreadnaught,plasma,guided,strength+1,no,ap+1,0.43
+219,fireknife,wulfen_dreadnaught,plasma,guided,strength+1,stealth_rerolls,ap+1,0.44
+220,fireknife,wulfen_dreadnaught,gun_drone,no,no,no,no,0.07
+221,fireknife,wulfen_dreadnaught,gun_drone,guided,no,no,no,0.08
+222,fireknife,wulfen_dreadnaught,gun_drone,guided,strength+1,no,no,0.07
+223,fireknife,wulfen_dreadnaught,gun_drone,guided,strength+1,no,ap+1,0.19
+224,fireknife,wulfen_dreadnaught,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.27
+225,fireknife,eliminators_3,rockets,no,no,no,no,0.74
+226,fireknife,eliminators_3,rockets,guided,no,no,no,0.84
+227,fireknife,eliminators_3,rockets,guided,strength+1,no,no,0.87
+228,fireknife,eliminators_3,rockets,guided,strength+1,no,ap+1,0.9
+229,fireknife,eliminators_3,rockets,guided,strength+1,stealth_rerolls,ap+1,0.95
+230,fireknife,eliminators_3,plasma,no,no,no,no,0.68
+231,fireknife,eliminators_3,plasma,guided,no,no,no,0.71
+232,fireknife,eliminators_3,plasma,guided,strength+1,no,no,0.74
+233,fireknife,eliminators_3,plasma,guided,strength+1,no,ap+1,0.85
+234,fireknife,eliminators_3,plasma,guided,strength+1,stealth_rerolls,ap+1,0.9
+235,fireknife,eliminators_3,gun_drone,no,no,no,no,0.17
+236,fireknife,eliminators_3,gun_drone,guided,no,no,no,0.21
+237,fireknife,eliminators_3,gun_drone,guided,strength+1,no,no,0.25
+238,fireknife,eliminators_3,gun_drone,guided,strength+1,no,ap+1,0.38
+239,fireknife,eliminators_3,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.36
+240,fireknife,eredicators_3,rockets,no,no,no,no,0.67
+241,fireknife,eredicators_3,rockets,guided,no,no,no,0.77
+242,fireknife,eredicators_3,rockets,guided,strength+1,no,no,0.73
+243,fireknife,eredicators_3,rockets,guided,strength+1,no,ap+1,0.87
+244,fireknife,eredicators_3,rockets,guided,strength+1,stealth_rerolls,ap+1,0.93
+245,fireknife,eredicators_3,plasma,no,no,no,no,0.56
+246,fireknife,eredicators_3,plasma,guided,no,no,no,0.64
+247,fireknife,eredicators_3,plasma,guided,strength+1,no,no,0.65
+248,fireknife,eredicators_3,plasma,guided,strength+1,no,ap+1,0.78
+249,fireknife,eredicators_3,plasma,guided,strength+1,stealth_rerolls,ap+1,0.85
+250,fireknife,eredicators_3,gun_drone,no,no,no,no,0.07
+251,fireknife,eredicators_3,gun_drone,guided,no,no,no,0.13
+252,fireknife,eredicators_3,gun_drone,guided,strength+1,no,no,0.17
+253,fireknife,eredicators_3,gun_drone,guided,strength+1,no,ap+1,0.28
+254,fireknife,eredicators_3,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.23
+255,fireknife,invictor_tactical warsuit,rockets,no,no,no,no,0.44
+256,fireknife,invictor_tactical warsuit,rockets,guided,no,no,no,0.47
+257,fireknife,invictor_tactical warsuit,rockets,guided,strength+1,no,no,0.62
+258,fireknife,invictor_tactical warsuit,rockets,guided,strength+1,no,ap+1,0.79
+259,fireknife,invictor_tactical warsuit,rockets,guided,strength+1,stealth_rerolls,ap+1,0.9
+260,fireknife,invictor_tactical warsuit,plasma,no,no,no,no,0.51
+261,fireknife,invictor_tactical warsuit,plasma,guided,no,no,no,0.58
+262,fireknife,invictor_tactical warsuit,plasma,guided,strength+1,no,no,0.73
+263,fireknife,invictor_tactical warsuit,plasma,guided,strength+1,no,ap+1,0.77
+264,fireknife,invictor_tactical warsuit,plasma,guided,strength+1,stealth_rerolls,ap+1,0.9
+265,fireknife,invictor_tactical warsuit,gun_drone,no,no,no,no,0.09
+266,fireknife,invictor_tactical warsuit,gun_drone,guided,no,no,no,0.21
+267,fireknife,invictor_tactical warsuit,gun_drone,guided,strength+1,no,no,0.15
+268,fireknife,invictor_tactical warsuit,gun_drone,guided,strength+1,no,ap+1,0.23
+269,fireknife,invictor_tactical warsuit,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.33
+270,fireknife,bjoern_the_fell_handed,rockets,no,no,no,no,0.17
+271,fireknife,bjoern_the_fell_handed,rockets,guided,no,no,no,0.22
+272,fireknife,bjoern_the_fell_handed,rockets,guided,strength+1,no,no,0.22
+273,fireknife,bjoern_the_fell_handed,rockets,guided,strength+1,no,ap+1,0.34
+274,fireknife,bjoern_the_fell_handed,rockets,guided,strength+1,stealth_rerolls,ap+1,0.37
+275,fireknife,bjoern_the_fell_handed,plasma,no,no,no,no,0.17
+276,fireknife,bjoern_the_fell_handed,plasma,guided,no,no,no,0.18
+277,fireknife,bjoern_the_fell_handed,plasma,guided,strength+1,no,no,0.28
+278,fireknife,bjoern_the_fell_handed,plasma,guided,strength+1,no,ap+1,0.37
+279,fireknife,bjoern_the_fell_handed,plasma,guided,strength+1,stealth_rerolls,ap+1,0.49
+280,fireknife,bjoern_the_fell_handed,gun_drone,no,no,no,no,0.03
+281,fireknife,bjoern_the_fell_handed,gun_drone,guided,no,no,no,0.05
+282,fireknife,bjoern_the_fell_handed,gun_drone,guided,strength+1,no,no,0.05
+283,fireknife,bjoern_the_fell_handed,gun_drone,guided,strength+1,no,ap+1,0.1
+284,fireknife,bjoern_the_fell_handed,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.11
+285,fireknife,stormwolf,rockets,no,no,no,no,0.33
+286,fireknife,stormwolf,rockets,guided,no,no,no,0.43
+287,fireknife,stormwolf,rockets,guided,strength+1,no,no,0.41
+288,fireknife,stormwolf,rockets,guided,strength+1,no,ap+1,0.57
+289,fireknife,stormwolf,rockets,guided,strength+1,stealth_rerolls,ap+1,0.61
+290,fireknife,stormwolf,plasma,no,no,no,no,0.31
+291,fireknife,stormwolf,plasma,guided,no,no,no,0.36
+292,fireknife,stormwolf,plasma,guided,strength+1,no,no,0.36
+293,fireknife,stormwolf,plasma,guided,strength+1,no,ap+1,0.46
+294,fireknife,stormwolf,plasma,guided,strength+1,stealth_rerolls,ap+1,0.51
+295,fireknife,stormwolf,gun_drone,no,no,no,no,0.05
+296,fireknife,stormwolf,gun_drone,guided,no,no,no,0.07
+297,fireknife,stormwolf,gun_drone,guided,strength+1,no,no,0.2
+298,fireknife,stormwolf,gun_drone,guided,strength+1,no,ap+1,0.23
+299,fireknife,stormwolf,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.23
+300,sunforge,blood_claws_10,fusion_blaster,no,no,no,no,0.16
+301,sunforge,blood_claws_10,fusion_blaster,guided,no,no,no,0.21
+302,sunforge,blood_claws_10,fusion_blaster,guided,strength+1,no,no,0.22
+303,sunforge,blood_claws_10,fusion_blaster,guided,strength+1,no,ap+1,0.25
+304,sunforge,blood_claws_10,fusion_blaster,guided,strength+1,stealth_rerolls,ap+1,0.3
+305,sunforge,blood_claws_10,fusion_blaster melta,no,no,no,no,0.21
+306,sunforge,blood_claws_10,fusion_blaster melta,guided,no,no,no,0.25
+307,sunforge,blood_claws_10,fusion_blaster melta,guided,strength+1,no,no,0.29
+308,sunforge,blood_claws_10,fusion_blaster melta,guided,strength+1,no,ap+1,0.26
+309,sunforge,blood_claws_10,fusion_blaster melta,guided,strength+1,stealth_rerolls,ap+1,0.36
+310,sunforge,blood_claws_10,gun_drone,no,no,no,no,0.05
+311,sunforge,blood_claws_10,gun_drone,guided,no,no,no,0.07
+312,sunforge,blood_claws_10,gun_drone,guided,strength+1,no,no,0.07
+313,sunforge,blood_claws_10,gun_drone,guided,strength+1,no,ap+1,0.11
+314,sunforge,blood_claws_10,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.12
+315,sunforge,bladeguard_veteran_squad_6,fusion_blaster,no,no,no,no,0.09
+316,sunforge,bladeguard_veteran_squad_6,fusion_blaster,guided,no,no,no,0.13
+317,sunforge,bladeguard_veteran_squad_6,fusion_blaster,guided,strength+1,no,no,0.13
+318,sunforge,bladeguard_veteran_squad_6,fusion_blaster,guided,strength+1,no,ap+1,0.11
+319,sunforge,bladeguard_veteran_squad_6,fusion_blaster,guided,strength+1,stealth_rerolls,ap+1,0.16
+320,sunforge,bladeguard_veteran_squad_6,fusion_blaster melta,no,no,no,no,0.16
+321,sunforge,bladeguard_veteran_squad_6,fusion_blaster melta,guided,no,no,no,0.17
+322,sunforge,bladeguard_veteran_squad_6,fusion_blaster melta,guided,strength+1,no,no,0.22
+323,sunforge,bladeguard_veteran_squad_6,fusion_blaster melta,guided,strength+1,no,ap+1,0.19
+324,sunforge,bladeguard_veteran_squad_6,fusion_blaster melta,guided,strength+1,stealth_rerolls,ap+1,0.21
+325,sunforge,bladeguard_veteran_squad_6,gun_drone,no,no,no,no,0.06
+326,sunforge,bladeguard_veteran_squad_6,gun_drone,guided,no,no,no,0.04
+327,sunforge,bladeguard_veteran_squad_6,gun_drone,guided,strength+1,no,no,0.07
+328,sunforge,bladeguard_veteran_squad_6,gun_drone,guided,strength+1,no,ap+1,0.1
+329,sunforge,bladeguard_veteran_squad_6,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.15
+330,sunforge,terminator_squad_5,fusion_blaster,no,no,no,no,0.15
+331,sunforge,terminator_squad_5,fusion_blaster,guided,no,no,no,0.18
+332,sunforge,terminator_squad_5,fusion_blaster,guided,strength+1,no,no,0.17
+333,sunforge,terminator_squad_5,fusion_blaster,guided,strength+1,no,ap+1,0.17
+334,sunforge,terminator_squad_5,fusion_blaster,guided,strength+1,stealth_rerolls,ap+1,0.25
+335,sunforge,terminator_squad_5,fusion_blaster melta,no,no,no,no,0.23
+336,sunforge,terminator_squad_5,fusion_blaster melta,guided,no,no,no,0.24
+337,sunforge,terminator_squad_5,fusion_blaster melta,guided,strength+1,no,no,0.25
+338,sunforge,terminator_squad_5,fusion_blaster melta,guided,strength+1,no,ap+1,0.28
+339,sunforge,terminator_squad_5,fusion_blaster melta,guided,strength+1,stealth_rerolls,ap+1,0.37
+340,sunforge,terminator_squad_5,gun_drone,no,no,no,no,0.02
+341,sunforge,terminator_squad_5,gun_drone,guided,no,no,no,0.04
+342,sunforge,terminator_squad_5,gun_drone,guided,strength+1,no,no,0.05
+343,sunforge,terminator_squad_5,gun_drone,guided,strength+1,no,ap+1,0.11
+344,sunforge,terminator_squad_5,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.15
+345,sunforge,wulfen_10,fusion_blaster,no,no,no,no,0.18
+346,sunforge,wulfen_10,fusion_blaster,guided,no,no,no,0.21
+347,sunforge,wulfen_10,fusion_blaster,guided,strength+1,no,no,0.21
+348,sunforge,wulfen_10,fusion_blaster,guided,strength+1,no,ap+1,0.2
+349,sunforge,wulfen_10,fusion_blaster,guided,strength+1,stealth_rerolls,ap+1,0.28
+350,sunforge,wulfen_10,fusion_blaster melta,no,no,no,no,0.2
+351,sunforge,wulfen_10,fusion_blaster melta,guided,no,no,no,0.26
+352,sunforge,wulfen_10,fusion_blaster melta,guided,strength+1,no,no,0.28
+353,sunforge,wulfen_10,fusion_blaster melta,guided,strength+1,no,ap+1,0.26
+354,sunforge,wulfen_10,fusion_blaster melta,guided,strength+1,stealth_rerolls,ap+1,0.34
+355,sunforge,wulfen_10,gun_drone,no,no,no,no,0.06
+356,sunforge,wulfen_10,gun_drone,guided,no,no,no,0.08
+357,sunforge,wulfen_10,gun_drone,guided,strength+1,no,no,0.09
+358,sunforge,wulfen_10,gun_drone,guided,strength+1,no,ap+1,0.14
+359,sunforge,wulfen_10,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.17
+360,sunforge,thunderwolf_cavalry_6,fusion_blaster,no,no,no,no,0.08
+361,sunforge,thunderwolf_cavalry_6,fusion_blaster,guided,no,no,no,0.13
+362,sunforge,thunderwolf_cavalry_6,fusion_blaster,guided,strength+1,no,no,0.11
+363,sunforge,thunderwolf_cavalry_6,fusion_blaster,guided,strength+1,no,ap+1,0.16
+364,sunforge,thunderwolf_cavalry_6,fusion_blaster,guided,strength+1,stealth_rerolls,ap+1,0.16
+365,sunforge,thunderwolf_cavalry_6,fusion_blaster melta,no,no,no,no,0.15
+366,sunforge,thunderwolf_cavalry_6,fusion_blaster melta,guided,no,no,no,0.18
+367,sunforge,thunderwolf_cavalry_6,fusion_blaster melta,guided,strength+1,no,no,0.16
+368,sunforge,thunderwolf_cavalry_6,fusion_blaster melta,guided,strength+1,no,ap+1,0.17
+369,sunforge,thunderwolf_cavalry_6,fusion_blaster melta,guided,strength+1,stealth_rerolls,ap+1,0.28
+370,sunforge,thunderwolf_cavalry_6,gun_drone,no,no,no,no,0.02
+371,sunforge,thunderwolf_cavalry_6,gun_drone,guided,no,no,no,0.05
+372,sunforge,thunderwolf_cavalry_6,gun_drone,guided,strength+1,no,no,0.06
+373,sunforge,thunderwolf_cavalry_6,gun_drone,guided,strength+1,no,ap+1,0.1
+374,sunforge,thunderwolf_cavalry_6,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.12
+375,sunforge,brutalis_dreadnaught,fusion_blaster,no,no,no,no,0.39
+376,sunforge,brutalis_dreadnaught,fusion_blaster,guided,no,no,no,0.54
+377,sunforge,brutalis_dreadnaught,fusion_blaster,guided,strength+1,no,no,0.67
+378,sunforge,brutalis_dreadnaught,fusion_blaster,guided,strength+1,no,ap+1,0.79
+379,sunforge,brutalis_dreadnaught,fusion_blaster,guided,strength+1,stealth_rerolls,ap+1,0.78
+380,sunforge,brutalis_dreadnaught,fusion_blaster melta,no,no,no,no,0.55
+381,sunforge,brutalis_dreadnaught,fusion_blaster melta,guided,no,no,no,0.68
+382,sunforge,brutalis_dreadnaught,fusion_blaster melta,guided,strength+1,no,no,0.73
+383,sunforge,brutalis_dreadnaught,fusion_blaster melta,guided,strength+1,no,ap+1,0.88
+384,sunforge,brutalis_dreadnaught,fusion_blaster melta,guided,strength+1,stealth_rerolls,ap+1,0.91
+385,sunforge,brutalis_dreadnaught,gun_drone,no,no,no,no,0.04
+386,sunforge,brutalis_dreadnaught,gun_drone,guided,no,no,no,0.03
+387,sunforge,brutalis_dreadnaught,gun_drone,guided,strength+1,no,no,0.07
+388,sunforge,brutalis_dreadnaught,gun_drone,guided,strength+1,no,ap+1,0.14
+389,sunforge,brutalis_dreadnaught,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.19
+390,sunforge,wulfen_dreadnaught,fusion_blaster,no,no,no,no,0.35
+391,sunforge,wulfen_dreadnaught,fusion_blaster,guided,no,no,no,0.49
+392,sunforge,wulfen_dreadnaught,fusion_blaster,guided,strength+1,no,no,0.57
+393,sunforge,wulfen_dreadnaught,fusion_blaster,guided,strength+1,no,ap+1,0.6
+394,sunforge,wulfen_dreadnaught,fusion_blaster,guided,strength+1,stealth_rerolls,ap+1,0.66
+395,sunforge,wulfen_dreadnaught,fusion_blaster melta,no,no,no,no,0.57
+396,sunforge,wulfen_dreadnaught,fusion_blaster melta,guided,no,no,no,0.62
+397,sunforge,wulfen_dreadnaught,fusion_blaster melta,guided,strength+1,no,no,0.76
+398,sunforge,wulfen_dreadnaught,fusion_blaster melta,guided,strength+1,no,ap+1,0.72
+399,sunforge,wulfen_dreadnaught,fusion_blaster melta,guided,strength+1,stealth_rerolls,ap+1,0.73
+400,sunforge,wulfen_dreadnaught,gun_drone,no,no,no,no,0.06
+401,sunforge,wulfen_dreadnaught,gun_drone,guided,no,no,no,0.08
+402,sunforge,wulfen_dreadnaught,gun_drone,guided,strength+1,no,no,0.13
+403,sunforge,wulfen_dreadnaught,gun_drone,guided,strength+1,no,ap+1,0.22
+404,sunforge,wulfen_dreadnaught,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.25
+405,sunforge,eliminators_3,fusion_blaster,no,no,no,no,0.57
+406,sunforge,eliminators_3,fusion_blaster,guided,no,no,no,0.69
+407,sunforge,eliminators_3,fusion_blaster,guided,strength+1,no,no,0.7
+408,sunforge,eliminators_3,fusion_blaster,guided,strength+1,no,ap+1,0.72
+409,sunforge,eliminators_3,fusion_blaster,guided,strength+1,stealth_rerolls,ap+1,0.85
+410,sunforge,eliminators_3,fusion_blaster melta,no,no,no,no,0.55
+411,sunforge,eliminators_3,fusion_blaster melta,guided,no,no,no,0.77
+412,sunforge,eliminators_3,fusion_blaster melta,guided,strength+1,no,no,0.78
+413,sunforge,eliminators_3,fusion_blaster melta,guided,strength+1,no,ap+1,0.78
+414,sunforge,eliminators_3,fusion_blaster melta,guided,strength+1,stealth_rerolls,ap+1,0.95
+415,sunforge,eliminators_3,gun_drone,no,no,no,no,0.16
+416,sunforge,eliminators_3,gun_drone,guided,no,no,no,0.25
+417,sunforge,eliminators_3,gun_drone,guided,strength+1,no,no,0.24
+418,sunforge,eliminators_3,gun_drone,guided,strength+1,no,ap+1,0.38
+419,sunforge,eliminators_3,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.38
+420,sunforge,eredicators_3,fusion_blaster,no,no,no,no,0.43
+421,sunforge,eredicators_3,fusion_blaster,guided,no,no,no,0.67
+422,sunforge,eredicators_3,fusion_blaster,guided,strength+1,no,no,0.61
+423,sunforge,eredicators_3,fusion_blaster,guided,strength+1,no,ap+1,0.59
+424,sunforge,eredicators_3,fusion_blaster,guided,strength+1,stealth_rerolls,ap+1,0.77
+425,sunforge,eredicators_3,fusion_blaster melta,no,no,no,no,0.69
+426,sunforge,eredicators_3,fusion_blaster melta,guided,no,no,no,0.82
+427,sunforge,eredicators_3,fusion_blaster melta,guided,strength+1,no,no,0.8
+428,sunforge,eredicators_3,fusion_blaster melta,guided,strength+1,no,ap+1,0.77
+429,sunforge,eredicators_3,fusion_blaster melta,guided,strength+1,stealth_rerolls,ap+1,0.9
+430,sunforge,eredicators_3,gun_drone,no,no,no,no,0.11
+431,sunforge,eredicators_3,gun_drone,guided,no,no,no,0.15
+432,sunforge,eredicators_3,gun_drone,guided,strength+1,no,no,0.17
+433,sunforge,eredicators_3,gun_drone,guided,strength+1,no,ap+1,0.24
+434,sunforge,eredicators_3,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.32
+435,sunforge,invictor_tactical warsuit,fusion_blaster,no,no,no,no,0.72
+436,sunforge,invictor_tactical warsuit,fusion_blaster,guided,no,no,no,0.82
+437,sunforge,invictor_tactical warsuit,fusion_blaster,guided,strength+1,no,no,0.83
+438,sunforge,invictor_tactical warsuit,fusion_blaster,guided,strength+1,no,ap+1,0.8
+439,sunforge,invictor_tactical warsuit,fusion_blaster,guided,strength+1,stealth_rerolls,ap+1,0.94
+440,sunforge,invictor_tactical warsuit,fusion_blaster melta,no,no,no,no,0.82
+441,sunforge,invictor_tactical warsuit,fusion_blaster melta,guided,no,no,no,0.9
+442,sunforge,invictor_tactical warsuit,fusion_blaster melta,guided,strength+1,no,no,0.95
+443,sunforge,invictor_tactical warsuit,fusion_blaster melta,guided,strength+1,no,ap+1,0.95
+444,sunforge,invictor_tactical warsuit,fusion_blaster melta,guided,strength+1,stealth_rerolls,ap+1,0.98
+445,sunforge,invictor_tactical warsuit,gun_drone,no,no,no,no,0.11
+446,sunforge,invictor_tactical warsuit,gun_drone,guided,no,no,no,0.13
+447,sunforge,invictor_tactical warsuit,gun_drone,guided,strength+1,no,no,0.17
+448,sunforge,invictor_tactical warsuit,gun_drone,guided,strength+1,no,ap+1,0.21
+449,sunforge,invictor_tactical warsuit,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.28
+450,sunforge,bjoern_the_fell_handed,fusion_blaster,no,no,no,no,0.34
+451,sunforge,bjoern_the_fell_handed,fusion_blaster,guided,no,no,no,0.47
+452,sunforge,bjoern_the_fell_handed,fusion_blaster,guided,strength+1,no,no,0.49
+453,sunforge,bjoern_the_fell_handed,fusion_blaster,guided,strength+1,no,ap+1,0.56
+454,sunforge,bjoern_the_fell_handed,fusion_blaster,guided,strength+1,stealth_rerolls,ap+1,0.7
+455,sunforge,bjoern_the_fell_handed,fusion_blaster melta,no,no,no,no,0.44
+456,sunforge,bjoern_the_fell_handed,fusion_blaster melta,guided,no,no,no,0.59
+457,sunforge,bjoern_the_fell_handed,fusion_blaster melta,guided,strength+1,no,no,0.68
+458,sunforge,bjoern_the_fell_handed,fusion_blaster melta,guided,strength+1,no,ap+1,0.77
+459,sunforge,bjoern_the_fell_handed,fusion_blaster melta,guided,strength+1,stealth_rerolls,ap+1,0.86
+460,sunforge,bjoern_the_fell_handed,gun_drone,no,no,no,no,0.04
+461,sunforge,bjoern_the_fell_handed,gun_drone,guided,no,no,no,0.06
+462,sunforge,bjoern_the_fell_handed,gun_drone,guided,strength+1,no,no,0.06
+463,sunforge,bjoern_the_fell_handed,gun_drone,guided,strength+1,no,ap+1,0.14
+464,sunforge,bjoern_the_fell_handed,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.09
+465,sunforge,stormwolf,fusion_blaster,no,no,no,no,0.38
+466,sunforge,stormwolf,fusion_blaster,guided,no,no,no,0.56
+467,sunforge,stormwolf,fusion_blaster,guided,strength+1,no,no,0.7
+468,sunforge,stormwolf,fusion_blaster,guided,strength+1,no,ap+1,0.67
+469,sunforge,stormwolf,fusion_blaster,guided,strength+1,stealth_rerolls,ap+1,0.77
+470,sunforge,stormwolf,fusion_blaster melta,no,no,no,no,0.62
+471,sunforge,stormwolf,fusion_blaster melta,guided,no,no,no,0.66
+472,sunforge,stormwolf,fusion_blaster melta,guided,strength+1,no,no,0.8
+473,sunforge,stormwolf,fusion_blaster melta,guided,strength+1,no,ap+1,0.81
+474,sunforge,stormwolf,fusion_blaster melta,guided,strength+1,stealth_rerolls,ap+1,0.9
+475,sunforge,stormwolf,gun_drone,no,no,no,no,0.05
+476,sunforge,stormwolf,gun_drone,guided,no,no,no,0.07
+477,sunforge,stormwolf,gun_drone,guided,strength+1,no,no,0.14
+478,sunforge,stormwolf,gun_drone,guided,strength+1,no,ap+1,0.18
+479,sunforge,stormwolf,gun_drone,guided,strength+1,stealth_rerolls,ap+1,0.24
+480,enforcer_fireknife,blood_claws_10,rockets,no,no,no,no,0.19
+481,enforcer_fireknife,blood_claws_10,rockets,guided,no,no,no,0.23
+482,enforcer_fireknife,blood_claws_10,rockets,guided,strength+1,no,no,0.22
+483,enforcer_fireknife,blood_claws_10,rockets,guided,strength+1,no,ap+1,0.3
+484,enforcer_fireknife,blood_claws_10,rockets,guided,strength+1,stealth_rerolls,ap+1,0.35
+485,enforcer_fireknife,blood_claws_10,plasma,no,no,no,no,0.16
+486,enforcer_fireknife,blood_claws_10,plasma,guided,no,no,no,0.19
+487,enforcer_fireknife,blood_claws_10,plasma,guided,strength+1,no,no,0.18
+488,enforcer_fireknife,blood_claws_10,plasma,guided,strength+1,no,ap+1,0.22
+489,enforcer_fireknife,blood_claws_10,plasma,guided,strength+1,stealth_rerolls,ap+1,0.26
+490,enforcer_fireknife,bladeguard_veteran_squad_6,rockets,no,no,no,no,0.24
+491,enforcer_fireknife,bladeguard_veteran_squad_6,rockets,guided,no,no,no,0.23
+492,enforcer_fireknife,bladeguard_veteran_squad_6,rockets,guided,strength+1,no,no,0.26
+493,enforcer_fireknife,bladeguard_veteran_squad_6,rockets,guided,strength+1,no,ap+1,0.27
+494,enforcer_fireknife,bladeguard_veteran_squad_6,rockets,guided,strength+1,stealth_rerolls,ap+1,0.31
+495,enforcer_fireknife,bladeguard_veteran_squad_6,plasma,no,no,no,no,0.1
+496,enforcer_fireknife,bladeguard_veteran_squad_6,plasma,guided,no,no,no,0.12
+497,enforcer_fireknife,bladeguard_veteran_squad_6,plasma,guided,strength+1,no,no,0.12
+498,enforcer_fireknife,bladeguard_veteran_squad_6,plasma,guided,strength+1,no,ap+1,0.13
+499,enforcer_fireknife,bladeguard_veteran_squad_6,plasma,guided,strength+1,stealth_rerolls,ap+1,0.14
+500,enforcer_fireknife,terminator_squad_5,rockets,no,no,no,no,0.23
+501,enforcer_fireknife,terminator_squad_5,rockets,guided,no,no,no,0.23
+502,enforcer_fireknife,terminator_squad_5,rockets,guided,strength+1,no,no,0.25
+503,enforcer_fireknife,terminator_squad_5,rockets,guided,strength+1,no,ap+1,0.37
+504,enforcer_fireknife,terminator_squad_5,rockets,guided,strength+1,stealth_rerolls,ap+1,0.43
+505,enforcer_fireknife,terminator_squad_5,plasma,no,no,no,no,0.17
+506,enforcer_fireknife,terminator_squad_5,plasma,guided,no,no,no,0.18
+507,enforcer_fireknife,terminator_squad_5,plasma,guided,strength+1,no,no,0.18
+508,enforcer_fireknife,terminator_squad_5,plasma,guided,strength+1,no,ap+1,0.16
+509,enforcer_fireknife,terminator_squad_5,plasma,guided,strength+1,stealth_rerolls,ap+1,0.21
+510,enforcer_fireknife,wulfen_10,rockets,no,no,no,no,0.24
+511,enforcer_fireknife,wulfen_10,rockets,guided,no,no,no,0.27
+512,enforcer_fireknife,wulfen_10,rockets,guided,strength+1,no,no,0.28
+513,enforcer_fireknife,wulfen_10,rockets,guided,strength+1,no,ap+1,0.33
+514,enforcer_fireknife,wulfen_10,rockets,guided,strength+1,stealth_rerolls,ap+1,0.38
+515,enforcer_fireknife,wulfen_10,plasma,no,no,no,no,0.19
+516,enforcer_fireknife,wulfen_10,plasma,guided,no,no,no,0.18
+517,enforcer_fireknife,wulfen_10,plasma,guided,strength+1,no,no,0.21
+518,enforcer_fireknife,wulfen_10,plasma,guided,strength+1,no,ap+1,0.2
+519,enforcer_fireknife,wulfen_10,plasma,guided,strength+1,stealth_rerolls,ap+1,0.24
+520,enforcer_fireknife,thunderwolf_cavalry_6,rockets,no,no,no,no,0.2
+521,enforcer_fireknife,thunderwolf_cavalry_6,rockets,guided,no,no,no,0.27
+522,enforcer_fireknife,thunderwolf_cavalry_6,rockets,guided,strength+1,no,no,0.26
+523,enforcer_fireknife,thunderwolf_cavalry_6,rockets,guided,strength+1,no,ap+1,0.27
+524,enforcer_fireknife,thunderwolf_cavalry_6,rockets,guided,strength+1,stealth_rerolls,ap+1,0.3
+525,enforcer_fireknife,thunderwolf_cavalry_6,plasma,no,no,no,no,0.11
+526,enforcer_fireknife,thunderwolf_cavalry_6,plasma,guided,no,no,no,0.12
+527,enforcer_fireknife,thunderwolf_cavalry_6,plasma,guided,strength+1,no,no,0.14
+528,enforcer_fireknife,thunderwolf_cavalry_6,plasma,guided,strength+1,no,ap+1,0.11
+529,enforcer_fireknife,thunderwolf_cavalry_6,plasma,guided,strength+1,stealth_rerolls,ap+1,0.14
+530,enforcer_fireknife,brutalis_dreadnaught,rockets,no,no,no,no,0.27
+531,enforcer_fireknife,brutalis_dreadnaught,rockets,guided,no,no,no,0.19
+532,enforcer_fireknife,brutalis_dreadnaught,rockets,guided,strength+1,no,no,0.23
+533,enforcer_fireknife,brutalis_dreadnaught,rockets,guided,strength+1,no,ap+1,0.41
+534,enforcer_fireknife,brutalis_dreadnaught,rockets,guided,strength+1,stealth_rerolls,ap+1,0.44
+535,enforcer_fireknife,brutalis_dreadnaught,plasma,no,no,no,no,0.24
+536,enforcer_fireknife,brutalis_dreadnaught,plasma,guided,no,no,no,0.22
+537,enforcer_fireknife,brutalis_dreadnaught,plasma,guided,strength+1,no,no,0.23
+538,enforcer_fireknife,brutalis_dreadnaught,plasma,guided,strength+1,no,ap+1,0.29
+539,enforcer_fireknife,brutalis_dreadnaught,plasma,guided,strength+1,stealth_rerolls,ap+1,0.41
+540,enforcer_fireknife,wulfen_dreadnaught,rockets,no,no,no,no,0.27
+541,enforcer_fireknife,wulfen_dreadnaught,rockets,guided,no,no,no,0.28
+542,enforcer_fireknife,wulfen_dreadnaught,rockets,guided,strength+1,no,no,0.3
+543,enforcer_fireknife,wulfen_dreadnaught,rockets,guided,strength+1,no,ap+1,0.42
+544,enforcer_fireknife,wulfen_dreadnaught,rockets,guided,strength+1,stealth_rerolls,ap+1,0.48
+545,enforcer_fireknife,wulfen_dreadnaught,plasma,no,no,no,no,0.21
+546,enforcer_fireknife,wulfen_dreadnaught,plasma,guided,no,no,no,0.24
+547,enforcer_fireknife,wulfen_dreadnaught,plasma,guided,strength+1,no,no,0.31
+548,enforcer_fireknife,wulfen_dreadnaught,plasma,guided,strength+1,no,ap+1,0.27
+549,enforcer_fireknife,wulfen_dreadnaught,plasma,guided,strength+1,stealth_rerolls,ap+1,0.4
+550,enforcer_fireknife,eliminators_3,rockets,no,no,no,no,0.59
+551,enforcer_fireknife,eliminators_3,rockets,guided,no,no,no,0.62
+552,enforcer_fireknife,eliminators_3,rockets,guided,strength+1,no,no,0.66
+553,enforcer_fireknife,eliminators_3,rockets,guided,strength+1,no,ap+1,0.83
+554,enforcer_fireknife,eliminators_3,rockets,guided,strength+1,stealth_rerolls,ap+1,0.86
+555,enforcer_fireknife,eliminators_3,plasma,no,no,no,no,0.56
+556,enforcer_fireknife,eliminators_3,plasma,guided,no,no,no,0.56
+557,enforcer_fireknife,eliminators_3,plasma,guided,strength+1,no,no,0.61
+558,enforcer_fireknife,eliminators_3,plasma,guided,strength+1,no,ap+1,0.73
+559,enforcer_fireknife,eliminators_3,plasma,guided,strength+1,stealth_rerolls,ap+1,0.83
+560,enforcer_fireknife,eredicators_3,rockets,no,no,no,no,0.59
+561,enforcer_fireknife,eredicators_3,rockets,guided,no,no,no,0.64
+562,enforcer_fireknife,eredicators_3,rockets,guided,strength+1,no,no,0.61
+563,enforcer_fireknife,eredicators_3,rockets,guided,strength+1,no,ap+1,0.72
+564,enforcer_fireknife,eredicators_3,rockets,guided,strength+1,stealth_rerolls,ap+1,0.82
+565,enforcer_fireknife,eredicators_3,plasma,no,no,no,no,0.47
+566,enforcer_fireknife,eredicators_3,plasma,guided,no,no,no,0.51
+567,enforcer_fireknife,eredicators_3,plasma,guided,strength+1,no,no,0.49
+568,enforcer_fireknife,eredicators_3,plasma,guided,strength+1,no,ap+1,0.61
+569,enforcer_fireknife,eredicators_3,plasma,guided,strength+1,stealth_rerolls,ap+1,0.66
+570,enforcer_fireknife,invictor_tactical warsuit,rockets,no,no,no,no,0.33
+571,enforcer_fireknife,invictor_tactical warsuit,rockets,guided,no,no,no,0.42
+572,enforcer_fireknife,invictor_tactical warsuit,rockets,guided,strength+1,no,no,0.54
+573,enforcer_fireknife,invictor_tactical warsuit,rockets,guided,strength+1,no,ap+1,0.72
+574,enforcer_fireknife,invictor_tactical warsuit,rockets,guided,strength+1,stealth_rerolls,ap+1,0.73
+575,enforcer_fireknife,invictor_tactical warsuit,plasma,no,no,no,no,0.47
+576,enforcer_fireknife,invictor_tactical warsuit,plasma,guided,no,no,no,0.43
+577,enforcer_fireknife,invictor_tactical warsuit,plasma,guided,strength+1,no,no,0.59
+578,enforcer_fireknife,invictor_tactical warsuit,plasma,guided,strength+1,no,ap+1,0.71
+579,enforcer_fireknife,invictor_tactical warsuit,plasma,guided,strength+1,stealth_rerolls,ap+1,0.79
+580,enforcer_fireknife,bjoern_the_fell_handed,rockets,no,no,no,no,0.13
+581,enforcer_fireknife,bjoern_the_fell_handed,rockets,guided,no,no,no,0.16
+582,enforcer_fireknife,bjoern_the_fell_handed,rockets,guided,strength+1,no,no,0.15
+583,enforcer_fireknife,bjoern_the_fell_handed,rockets,guided,strength+1,no,ap+1,0.26
+584,enforcer_fireknife,bjoern_the_fell_handed,rockets,guided,strength+1,stealth_rerolls,ap+1,0.25
+585,enforcer_fireknife,bjoern_the_fell_handed,plasma,no,no,no,no,0.15
+586,enforcer_fireknife,bjoern_the_fell_handed,plasma,guided,no,no,no,0.17
+587,enforcer_fireknife,bjoern_the_fell_handed,plasma,guided,strength+1,no,no,0.23
+588,enforcer_fireknife,bjoern_the_fell_handed,plasma,guided,strength+1,no,ap+1,0.3
+589,enforcer_fireknife,bjoern_the_fell_handed,plasma,guided,strength+1,stealth_rerolls,ap+1,0.36
+590,enforcer_fireknife,stormwolf,rockets,no,no,no,no,0.3
+591,enforcer_fireknife,stormwolf,rockets,guided,no,no,no,0.35
+592,enforcer_fireknife,stormwolf,rockets,guided,strength+1,no,no,0.34
+593,enforcer_fireknife,stormwolf,rockets,guided,strength+1,no,ap+1,0.37
+594,enforcer_fireknife,stormwolf,rockets,guided,strength+1,stealth_rerolls,ap+1,0.45
+595,enforcer_fireknife,stormwolf,plasma,no,no,no,no,0.22
+596,enforcer_fireknife,stormwolf,plasma,guided,no,no,no,0.28
+597,enforcer_fireknife,stormwolf,plasma,guided,strength+1,no,no,0.26
+598,enforcer_fireknife,stormwolf,plasma,guided,strength+1,no,ap+1,0.31
+599,enforcer_fireknife,stormwolf,plasma,guided,strength+1,stealth_rerolls,ap+1,0.36
+600,coldstar_starscythe,blood_claws_10,burst_cannon,no,no,no,no,0.42
+601,coldstar_starscythe,blood_claws_10,burst_cannon,guided,no,no,no,0.47
+602,coldstar_starscythe,blood_claws_10,burst_cannon,guided,strength+1,no,no,0.46
+603,coldstar_starscythe,blood_claws_10,burst_cannon,guided,strength+1,no,ap+1,0.64
+604,coldstar_starscythe,blood_claws_10,burst_cannon,guided,strength+1,stealth_rerolls,ap+1,0.82
+605,coldstar_starscythe,bladeguard_veteran_squad_6,burst_cannon,no,no,no,no,0.46
+606,coldstar_starscythe,bladeguard_veteran_squad_6,burst_cannon,guided,no,no,no,0.53
+607,coldstar_starscythe,bladeguard_veteran_squad_6,burst_cannon,guided,strength+1,no,no,0.51
+608,coldstar_starscythe,bladeguard_veteran_squad_6,burst_cannon,guided,strength+1,no,ap+1,0.55
+609,coldstar_starscythe,bladeguard_veteran_squad_6,burst_cannon,guided,strength+1,stealth_rerolls,ap+1,0.76
+610,coldstar_starscythe,terminator_squad_5,burst_cannon,no,no,no,no,0.31
+611,coldstar_starscythe,terminator_squad_5,burst_cannon,guided,no,no,no,0.38
+612,coldstar_starscythe,terminator_squad_5,burst_cannon,guided,strength+1,no,no,0.53
+613,coldstar_starscythe,terminator_squad_5,burst_cannon,guided,strength+1,no,ap+1,0.75
+614,coldstar_starscythe,terminator_squad_5,burst_cannon,guided,strength+1,stealth_rerolls,ap+1,0.89
+615,coldstar_starscythe,wulfen_10,burst_cannon,no,no,no,no,0.38
+616,coldstar_starscythe,wulfen_10,burst_cannon,guided,no,no,no,0.4
+617,coldstar_starscythe,wulfen_10,burst_cannon,guided,strength+1,no,no,0.57
+618,coldstar_starscythe,wulfen_10,burst_cannon,guided,strength+1,no,ap+1,0.72
+619,coldstar_starscythe,wulfen_10,burst_cannon,guided,strength+1,stealth_rerolls,ap+1,0.92
+620,coldstar_starscythe,thunderwolf_cavalry_6,burst_cannon,no,no,no,no,0.21
+621,coldstar_starscythe,thunderwolf_cavalry_6,burst_cannon,guided,no,no,no,0.3
+622,coldstar_starscythe,thunderwolf_cavalry_6,burst_cannon,guided,strength+1,no,no,0.39
+623,coldstar_starscythe,thunderwolf_cavalry_6,burst_cannon,guided,strength+1,no,ap+1,0.37
+624,coldstar_starscythe,thunderwolf_cavalry_6,burst_cannon,guided,strength+1,stealth_rerolls,ap+1,0.59
+625,coldstar_starscythe,brutalis_dreadnaught,burst_cannon,no,no,no,no,0.1
+626,coldstar_starscythe,brutalis_dreadnaught,burst_cannon,guided,no,no,no,0.14
+627,coldstar_starscythe,brutalis_dreadnaught,burst_cannon,guided,strength+1,no,no,0.24
+628,coldstar_starscythe,brutalis_dreadnaught,burst_cannon,guided,strength+1,no,ap+1,0.54
+629,coldstar_starscythe,brutalis_dreadnaught,burst_cannon,guided,strength+1,stealth_rerolls,ap+1,0.62
+630,coldstar_starscythe,wulfen_dreadnaught,burst_cannon,no,no,no,no,0.3
+631,coldstar_starscythe,wulfen_dreadnaught,burst_cannon,guided,no,no,no,0.35
+632,coldstar_starscythe,wulfen_dreadnaught,burst_cannon,guided,strength+1,no,no,0.36
+633,coldstar_starscythe,wulfen_dreadnaught,burst_cannon,guided,strength+1,no,ap+1,0.65
+634,coldstar_starscythe,wulfen_dreadnaught,burst_cannon,guided,strength+1,stealth_rerolls,ap+1,0.74
+635,coldstar_starscythe,eliminators_3,burst_cannon,no,no,no,no,0.86
+636,coldstar_starscythe,eliminators_3,burst_cannon,guided,no,no,no,0.95
+637,coldstar_starscythe,eliminators_3,burst_cannon,guided,strength+1,no,no,0.97
+638,coldstar_starscythe,eliminators_3,burst_cannon,guided,strength+1,no,ap+1,0.99
+639,coldstar_starscythe,eliminators_3,burst_cannon,guided,strength+1,stealth_rerolls,ap+1,1.0
+640,coldstar_starscythe,eredicators_3,burst_cannon,no,no,no,no,0.51
+641,coldstar_starscythe,eredicators_3,burst_cannon,guided,no,no,no,0.53
+642,coldstar_starscythe,eredicators_3,burst_cannon,guided,strength+1,no,no,0.82
+643,coldstar_starscythe,eredicators_3,burst_cannon,guided,strength+1,no,ap+1,0.92
+644,coldstar_starscythe,eredicators_3,burst_cannon,guided,strength+1,stealth_rerolls,ap+1,0.99
+645,coldstar_starscythe,invictor_tactical warsuit,burst_cannon,no,no,no,no,0.38
+646,coldstar_starscythe,invictor_tactical warsuit,burst_cannon,guided,no,no,no,0.49
+647,coldstar_starscythe,invictor_tactical warsuit,burst_cannon,guided,strength+1,no,no,0.46
+648,coldstar_starscythe,invictor_tactical warsuit,burst_cannon,guided,strength+1,no,ap+1,0.68
+649,coldstar_starscythe,invictor_tactical warsuit,burst_cannon,guided,strength+1,stealth_rerolls,ap+1,0.8
+650,coldstar_starscythe,bjoern_the_fell_handed,burst_cannon,no,no,no,no,0.11
+651,coldstar_starscythe,bjoern_the_fell_handed,burst_cannon,guided,no,no,no,0.16
+652,coldstar_starscythe,bjoern_the_fell_handed,burst_cannon,guided,strength+1,no,no,0.16
+653,coldstar_starscythe,bjoern_the_fell_handed,burst_cannon,guided,strength+1,no,ap+1,0.33
+654,coldstar_starscythe,bjoern_the_fell_handed,burst_cannon,guided,strength+1,stealth_rerolls,ap+1,0.46
+655,coldstar_starscythe,stormwolf,burst_cannon,no,no,no,no,0.18
+656,coldstar_starscythe,stormwolf,burst_cannon,guided,no,no,no,0.19
+657,coldstar_starscythe,stormwolf,burst_cannon,guided,strength+1,no,no,0.45
+658,coldstar_starscythe,stormwolf,burst_cannon,guided,strength+1,no,ap+1,0.59
+659,coldstar_starscythe,stormwolf,burst_cannon,guided,strength+1,stealth_rerolls,ap+1,0.69
+660,broadside,blood_claws_10,heavy_rail_rifle,no,no,no,no,0.07
+661,broadside,blood_claws_10,heavy_rail_rifle,guided,no,no,no,0.09
+662,broadside,blood_claws_10,heavy_rail_rifle,guided,strength+1,no,no,0.09
+663,broadside,blood_claws_10,heavy_rail_rifle,guided,strength+1,no,ap+1,0.09
+664,broadside,blood_claws_10,heavy_rail_rifle,guided,strength+1,stealth_rerolls,ap+1,0.12
+665,broadside,blood_claws_10,heavy_rail_rifle_heavy_,no,no,no,no,0.09
+666,broadside,blood_claws_10,heavy_rail_rifle_heavy_,guided,no,no,no,0.11
+667,broadside,blood_claws_10,heavy_rail_rifle_heavy_,guided,strength+1,no,no,0.09
+668,broadside,blood_claws_10,heavy_rail_rifle_heavy_,guided,strength+1,no,ap+1,0.12
+669,broadside,blood_claws_10,heavy_rail_rifle_heavy_,guided,strength+1,stealth_rerolls,ap+1,0.16
+670,broadside,blood_claws_10,missile_drone,no,no,no,no,0.04
+671,broadside,blood_claws_10,missile_drone,guided,no,no,no,0.06
+672,broadside,blood_claws_10,missile_drone,guided,strength+1,no,no,0.05
+673,broadside,blood_claws_10,missile_drone,guided,strength+1,no,ap+1,0.08
+674,broadside,blood_claws_10,missile_drone,guided,strength+1,stealth_rerolls,ap+1,0.1
+675,broadside,bladeguard_veteran_squad_6,heavy_rail_rifle,no,no,no,no,0.03
+676,broadside,bladeguard_veteran_squad_6,heavy_rail_rifle,guided,no,no,no,0.04
+677,broadside,bladeguard_veteran_squad_6,heavy_rail_rifle,guided,strength+1,no,no,0.06
+678,broadside,bladeguard_veteran_squad_6,heavy_rail_rifle,guided,strength+1,no,ap+1,0.05
+679,broadside,bladeguard_veteran_squad_6,heavy_rail_rifle,guided,strength+1,stealth_rerolls,ap+1,0.06
+680,broadside,bladeguard_veteran_squad_6,heavy_rail_rifle_heavy_,no,no,no,no,0.12
+681,broadside,bladeguard_veteran_squad_6,heavy_rail_rifle_heavy_,guided,no,no,no,0.14
+682,broadside,bladeguard_veteran_squad_6,heavy_rail_rifle_heavy_,guided,strength+1,no,no,0.16
+683,broadside,bladeguard_veteran_squad_6,heavy_rail_rifle_heavy_,guided,strength+1,no,ap+1,0.16
+684,broadside,bladeguard_veteran_squad_6,heavy_rail_rifle_heavy_,guided,strength+1,stealth_rerolls,ap+1,0.2
+685,broadside,bladeguard_veteran_squad_6,missile_drone,no,no,no,no,0.03
+686,broadside,bladeguard_veteran_squad_6,missile_drone,guided,no,no,no,0.07
+687,broadside,bladeguard_veteran_squad_6,missile_drone,guided,strength+1,no,no,0.07
+688,broadside,bladeguard_veteran_squad_6,missile_drone,guided,strength+1,no,ap+1,0.06
+689,broadside,bladeguard_veteran_squad_6,missile_drone,guided,strength+1,stealth_rerolls,ap+1,0.07
+690,broadside,terminator_squad_5,heavy_rail_rifle,no,no,no,no,0.06
+691,broadside,terminator_squad_5,heavy_rail_rifle,guided,no,no,no,0.07
+692,broadside,terminator_squad_5,heavy_rail_rifle,guided,strength+1,no,no,0.06
+693,broadside,terminator_squad_5,heavy_rail_rifle,guided,strength+1,no,ap+1,0.07
+694,broadside,terminator_squad_5,heavy_rail_rifle,guided,strength+1,stealth_rerolls,ap+1,0.1
+695,broadside,terminator_squad_5,heavy_rail_rifle_heavy_,no,no,no,no,0.15
+696,broadside,terminator_squad_5,heavy_rail_rifle_heavy_,guided,no,no,no,0.19
+697,broadside,terminator_squad_5,heavy_rail_rifle_heavy_,guided,strength+1,no,no,0.16
+698,broadside,terminator_squad_5,heavy_rail_rifle_heavy_,guided,strength+1,no,ap+1,0.2
+699,broadside,terminator_squad_5,heavy_rail_rifle_heavy_,guided,strength+1,stealth_rerolls,ap+1,0.25
+700,broadside,terminator_squad_5,missile_drone,no,no,no,no,0.05
+701,broadside,terminator_squad_5,missile_drone,guided,no,no,no,0.08
+702,broadside,terminator_squad_5,missile_drone,guided,strength+1,no,no,0.04
+703,broadside,terminator_squad_5,missile_drone,guided,strength+1,no,ap+1,0.11
+704,broadside,terminator_squad_5,missile_drone,guided,strength+1,stealth_rerolls,ap+1,0.14
+705,broadside,wulfen_10,heavy_rail_rifle,no,no,no,no,0.07
+706,broadside,wulfen_10,heavy_rail_rifle,guided,no,no,no,0.08
+707,broadside,wulfen_10,heavy_rail_rifle,guided,strength+1,no,no,0.08
+708,broadside,wulfen_10,heavy_rail_rifle,guided,strength+1,no,ap+1,0.09
+709,broadside,wulfen_10,heavy_rail_rifle,guided,strength+1,stealth_rerolls,ap+1,0.11
+710,broadside,wulfen_10,heavy_rail_rifle_heavy_,no,no,no,no,0.09
+711,broadside,wulfen_10,heavy_rail_rifle_heavy_,guided,no,no,no,0.11
+712,broadside,wulfen_10,heavy_rail_rifle_heavy_,guided,strength+1,no,no,0.11
+713,broadside,wulfen_10,heavy_rail_rifle_heavy_,guided,strength+1,no,ap+1,0.11
+714,broadside,wulfen_10,heavy_rail_rifle_heavy_,guided,strength+1,stealth_rerolls,ap+1,0.14
+715,broadside,wulfen_10,missile_drone,no,no,no,no,0.04
+716,broadside,wulfen_10,missile_drone,guided,no,no,no,0.07
+717,broadside,wulfen_10,missile_drone,guided,strength+1,no,no,0.06
+718,broadside,wulfen_10,missile_drone,guided,strength+1,no,ap+1,0.09
+719,broadside,wulfen_10,missile_drone,guided,strength+1,stealth_rerolls,ap+1,0.14
+720,broadside,thunderwolf_cavalry_6,heavy_rail_rifle,no,no,no,no,0.05
+721,broadside,thunderwolf_cavalry_6,heavy_rail_rifle,guided,no,no,no,0.04
+722,broadside,thunderwolf_cavalry_6,heavy_rail_rifle,guided,strength+1,no,no,0.06
+723,broadside,thunderwolf_cavalry_6,heavy_rail_rifle,guided,strength+1,no,ap+1,0.05
+724,broadside,thunderwolf_cavalry_6,heavy_rail_rifle,guided,strength+1,stealth_rerolls,ap+1,0.06
+725,broadside,thunderwolf_cavalry_6,heavy_rail_rifle_heavy_,no,no,no,no,0.09
+726,broadside,thunderwolf_cavalry_6,heavy_rail_rifle_heavy_,guided,no,no,no,0.13
+727,broadside,thunderwolf_cavalry_6,heavy_rail_rifle_heavy_,guided,strength+1,no,no,0.14
+728,broadside,thunderwolf_cavalry_6,heavy_rail_rifle_heavy_,guided,strength+1,no,ap+1,0.13
+729,broadside,thunderwolf_cavalry_6,heavy_rail_rifle_heavy_,guided,strength+1,stealth_rerolls,ap+1,0.18
+730,broadside,thunderwolf_cavalry_6,missile_drone,no,no,no,no,0.03
+731,broadside,thunderwolf_cavalry_6,missile_drone,guided,no,no,no,0.09
+732,broadside,thunderwolf_cavalry_6,missile_drone,guided,strength+1,no,no,0.07
+733,broadside,thunderwolf_cavalry_6,missile_drone,guided,strength+1,no,ap+1,0.06
+734,broadside,thunderwolf_cavalry_6,missile_drone,guided,strength+1,stealth_rerolls,ap+1,0.06
+735,broadside,brutalis_dreadnaught,heavy_rail_rifle,no,no,no,no,0.19
+736,broadside,brutalis_dreadnaught,heavy_rail_rifle,guided,no,no,no,0.24
+737,broadside,brutalis_dreadnaught,heavy_rail_rifle,guided,strength+1,no,no,0.26
+738,broadside,brutalis_dreadnaught,heavy_rail_rifle,guided,strength+1,no,ap+1,0.38
+739,broadside,brutalis_dreadnaught,heavy_rail_rifle,guided,strength+1,stealth_rerolls,ap+1,0.43
+740,broadside,brutalis_dreadnaught,heavy_rail_rifle_heavy_,no,no,no,no,0.32
+741,broadside,brutalis_dreadnaught,heavy_rail_rifle_heavy_,guided,no,no,no,0.41
+742,broadside,brutalis_dreadnaught,heavy_rail_rifle_heavy_,guided,strength+1,no,no,0.4
+743,broadside,brutalis_dreadnaught,heavy_rail_rifle_heavy_,guided,strength+1,no,ap+1,0.37
+744,broadside,brutalis_dreadnaught,heavy_rail_rifle_heavy_,guided,strength+1,stealth_rerolls,ap+1,0.56
+745,broadside,brutalis_dreadnaught,missile_drone,no,no,no,no,0.05
+746,broadside,brutalis_dreadnaught,missile_drone,guided,no,no,no,0.05
+747,broadside,brutalis_dreadnaught,missile_drone,guided,strength+1,no,no,0.06
+748,broadside,brutalis_dreadnaught,missile_drone,guided,strength+1,no,ap+1,0.11
+749,broadside,brutalis_dreadnaught,missile_drone,guided,strength+1,stealth_rerolls,ap+1,0.13
+750,broadside,wulfen_dreadnaught,heavy_rail_rifle,no,no,no,no,0.17
+751,broadside,wulfen_dreadnaught,heavy_rail_rifle,guided,no,no,no,0.17
+752,broadside,wulfen_dreadnaught,heavy_rail_rifle,guided,strength+1,no,no,0.15
+753,broadside,wulfen_dreadnaught,heavy_rail_rifle,guided,strength+1,no,ap+1,0.22
+754,broadside,wulfen_dreadnaught,heavy_rail_rifle,guided,strength+1,stealth_rerolls,ap+1,0.25
+755,broadside,wulfen_dreadnaught,heavy_rail_rifle_heavy_,no,no,no,no,0.4
+756,broadside,wulfen_dreadnaught,heavy_rail_rifle_heavy_,guided,no,no,no,0.5
+757,broadside,wulfen_dreadnaught,heavy_rail_rifle_heavy_,guided,strength+1,no,no,0.55
+758,broadside,wulfen_dreadnaught,heavy_rail_rifle_heavy_,guided,strength+1,no,ap+1,0.48
+759,broadside,wulfen_dreadnaught,heavy_rail_rifle_heavy_,guided,strength+1,stealth_rerolls,ap+1,0.67
+760,broadside,wulfen_dreadnaught,missile_drone,no,no,no,no,0.04
+761,broadside,wulfen_dreadnaught,missile_drone,guided,no,no,no,0.04
+762,broadside,wulfen_dreadnaught,missile_drone,guided,strength+1,no,no,0.07
+763,broadside,wulfen_dreadnaught,missile_drone,guided,strength+1,no,ap+1,0.12
+764,broadside,wulfen_dreadnaught,missile_drone,guided,strength+1,stealth_rerolls,ap+1,0.19
+765,broadside,eliminators_3,heavy_rail_rifle,no,no,no,no,0.22
+766,broadside,eliminators_3,heavy_rail_rifle,guided,no,no,no,0.29
+767,broadside,eliminators_3,heavy_rail_rifle,guided,strength+1,no,no,0.3
+768,broadside,eliminators_3,heavy_rail_rifle,guided,strength+1,no,ap+1,0.35
+769,broadside,eliminators_3,heavy_rail_rifle,guided,strength+1,stealth_rerolls,ap+1,0.38
+770,broadside,eliminators_3,heavy_rail_rifle_heavy_,no,no,no,no,0.31
+771,broadside,eliminators_3,heavy_rail_rifle_heavy_,guided,no,no,no,0.39
+772,broadside,eliminators_3,heavy_rail_rifle_heavy_,guided,strength+1,no,no,0.36
+773,broadside,eliminators_3,heavy_rail_rifle_heavy_,guided,strength+1,no,ap+1,0.35
+774,broadside,eliminators_3,heavy_rail_rifle_heavy_,guided,strength+1,stealth_rerolls,ap+1,0.51
+775,broadside,eliminators_3,missile_drone,no,no,no,no,0.16
+776,broadside,eliminators_3,missile_drone,guided,no,no,no,0.2
+777,broadside,eliminators_3,missile_drone,guided,strength+1,no,no,0.16
+778,broadside,eliminators_3,missile_drone,guided,strength+1,no,ap+1,0.22
+779,broadside,eliminators_3,missile_drone,guided,strength+1,stealth_rerolls,ap+1,0.36
+780,broadside,eredicators_3,heavy_rail_rifle,no,no,no,no,0.2
+781,broadside,eredicators_3,heavy_rail_rifle,guided,no,no,no,0.26
+782,broadside,eredicators_3,heavy_rail_rifle,guided,strength+1,no,no,0.26
+783,broadside,eredicators_3,heavy_rail_rifle,guided,strength+1,no,ap+1,0.24
+784,broadside,eredicators_3,heavy_rail_rifle,guided,strength+1,stealth_rerolls,ap+1,0.32
+785,broadside,eredicators_3,heavy_rail_rifle_heavy_,no,no,no,no,0.26
+786,broadside,eredicators_3,heavy_rail_rifle_heavy_,guided,no,no,no,0.28
+787,broadside,eredicators_3,heavy_rail_rifle_heavy_,guided,strength+1,no,no,0.3
+788,broadside,eredicators_3,heavy_rail_rifle_heavy_,guided,strength+1,no,ap+1,0.33
+789,broadside,eredicators_3,heavy_rail_rifle_heavy_,guided,strength+1,stealth_rerolls,ap+1,0.45
+790,broadside,eredicators_3,missile_drone,no,no,no,no,0.09
+791,broadside,eredicators_3,missile_drone,guided,no,no,no,0.16
+792,broadside,eredicators_3,missile_drone,guided,strength+1,no,no,0.15
+793,broadside,eredicators_3,missile_drone,guided,strength+1,no,ap+1,0.2
+794,broadside,eredicators_3,missile_drone,guided,strength+1,stealth_rerolls,ap+1,0.31
+795,broadside,invictor_tactical warsuit,heavy_rail_rifle,no,no,no,no,0.19
+796,broadside,invictor_tactical warsuit,heavy_rail_rifle,guided,no,no,no,0.32
+797,broadside,invictor_tactical warsuit,heavy_rail_rifle,guided,strength+1,no,no,0.37
+798,broadside,invictor_tactical warsuit,heavy_rail_rifle,guided,strength+1,no,ap+1,0.32
+799,broadside,invictor_tactical warsuit,heavy_rail_rifle,guided,strength+1,stealth_rerolls,ap+1,0.45
+800,broadside,invictor_tactical warsuit,heavy_rail_rifle_heavy_,no,no,no,no,0.37
+801,broadside,invictor_tactical warsuit,heavy_rail_rifle_heavy_,guided,no,no,no,0.44
+802,broadside,invictor_tactical warsuit,heavy_rail_rifle_heavy_,guided,strength+1,no,no,0.41
+803,broadside,invictor_tactical warsuit,heavy_rail_rifle_heavy_,guided,strength+1,no,ap+1,0.43
+804,broadside,invictor_tactical warsuit,heavy_rail_rifle_heavy_,guided,strength+1,stealth_rerolls,ap+1,0.56
+805,broadside,invictor_tactical warsuit,missile_drone,no,no,no,no,0.08
+806,broadside,invictor_tactical warsuit,missile_drone,guided,no,no,no,0.14
+807,broadside,invictor_tactical warsuit,missile_drone,guided,strength+1,no,no,0.16
+808,broadside,invictor_tactical warsuit,missile_drone,guided,strength+1,no,ap+1,0.15
+809,broadside,invictor_tactical warsuit,missile_drone,guided,strength+1,stealth_rerolls,ap+1,0.25
+810,broadside,bjoern_the_fell_handed,heavy_rail_rifle,no,no,no,no,0.11
+811,broadside,bjoern_the_fell_handed,heavy_rail_rifle,guided,no,no,no,0.16
+812,broadside,bjoern_the_fell_handed,heavy_rail_rifle,guided,strength+1,no,no,0.15
+813,broadside,bjoern_the_fell_handed,heavy_rail_rifle,guided,strength+1,no,ap+1,0.19
+814,broadside,bjoern_the_fell_handed,heavy_rail_rifle,guided,strength+1,stealth_rerolls,ap+1,0.27
+815,broadside,bjoern_the_fell_handed,heavy_rail_rifle_heavy_,no,no,no,no,0.19
+816,broadside,bjoern_the_fell_handed,heavy_rail_rifle_heavy_,guided,no,no,no,0.27
+817,broadside,bjoern_the_fell_handed,heavy_rail_rifle_heavy_,guided,strength+1,no,no,0.25
+818,broadside,bjoern_the_fell_handed,heavy_rail_rifle_heavy_,guided,strength+1,no,ap+1,0.24
+819,broadside,bjoern_the_fell_handed,heavy_rail_rifle_heavy_,guided,strength+1,stealth_rerolls,ap+1,0.33
+820,broadside,bjoern_the_fell_handed,missile_drone,no,no,no,no,0.02
+821,broadside,bjoern_the_fell_handed,missile_drone,guided,no,no,no,0.06
+822,broadside,bjoern_the_fell_handed,missile_drone,guided,strength+1,no,no,0.04
+823,broadside,bjoern_the_fell_handed,missile_drone,guided,strength+1,no,ap+1,0.06
+824,broadside,bjoern_the_fell_handed,missile_drone,guided,strength+1,stealth_rerolls,ap+1,0.09
+825,broadside,stormwolf,heavy_rail_rifle,no,no,no,no,0.21
+826,broadside,stormwolf,heavy_rail_rifle,guided,no,no,no,0.31
+827,broadside,stormwolf,heavy_rail_rifle,guided,strength+1,no,no,0.27
+828,broadside,stormwolf,heavy_rail_rifle,guided,strength+1,no,ap+1,0.32
+829,broadside,stormwolf,heavy_rail_rifle,guided,strength+1,stealth_rerolls,ap+1,0.37
+830,broadside,stormwolf,heavy_rail_rifle_heavy_,no,no,no,no,0.32
+831,broadside,stormwolf,heavy_rail_rifle_heavy_,guided,no,no,no,0.37
+832,broadside,stormwolf,heavy_rail_rifle_heavy_,guided,strength+1,no,no,0.4
+833,broadside,stormwolf,heavy_rail_rifle_heavy_,guided,strength+1,no,ap+1,0.38
+834,broadside,stormwolf,heavy_rail_rifle_heavy_,guided,strength+1,stealth_rerolls,ap+1,0.48
+835,broadside,stormwolf,missile_drone,no,no,no,no,0.07
+836,broadside,stormwolf,missile_drone,guided,no,no,no,0.11
+837,broadside,stormwolf,missile_drone,guided,strength+1,no,no,0.11
+838,broadside,stormwolf,missile_drone,guided,strength+1,no,ap+1,0.1
+839,broadside,stormwolf,missile_drone,guided,strength+1,stealth_rerolls,ap+1,0.15
+840,ghostkeel,blood_claws_10,cyclic_ion_raker,no,no,no,no,0.07
+841,ghostkeel,blood_claws_10,cyclic_ion_raker,guided,no,no,no,0.12
+842,ghostkeel,blood_claws_10,cyclic_ion_raker,guided,strength+1,no,no,0.1
+843,ghostkeel,blood_claws_10,cyclic_ion_raker,guided,strength+1,no,ap+1,0.17
+844,ghostkeel,blood_claws_10,cyclic_ion_raker,guided,strength+1,stealth_rerolls,ap+1,0.2
+845,ghostkeel,blood_claws_10,cyclic_ion_raker_overcharged,no,no,no,no,0.12
+846,ghostkeel,blood_claws_10,cyclic_ion_raker_overcharged,guided,no,no,no,0.15
+847,ghostkeel,blood_claws_10,cyclic_ion_raker_overcharged,guided,strength+1,no,no,0.15
+848,ghostkeel,blood_claws_10,cyclic_ion_raker_overcharged,guided,strength+1,no,ap+1,0.22
+849,ghostkeel,blood_claws_10,cyclic_ion_raker_overcharged,guided,strength+1,stealth_rerolls,ap+1,0.23
+850,ghostkeel,blood_claws_10,fusion_collider,no,no,no,no,0.06
+851,ghostkeel,blood_claws_10,fusion_collider,guided,no,no,no,0.06
+852,ghostkeel,blood_claws_10,fusion_collider,guided,strength+1,no,no,0.07
+853,ghostkeel,blood_claws_10,fusion_collider,guided,strength+1,no,ap+1,0.09
+854,ghostkeel,blood_claws_10,fusion_collider,guided,strength+1,stealth_rerolls,ap+1,0.11
+855,ghostkeel,blood_claws_10,fusion_collider_melta,no,no,no,no,0.06
+856,ghostkeel,blood_claws_10,fusion_collider_melta,guided,no,no,no,0.08
+857,ghostkeel,blood_claws_10,fusion_collider_melta,guided,strength+1,no,no,0.08
+858,ghostkeel,blood_claws_10,fusion_collider_melta,guided,strength+1,no,ap+1,0.08
+859,ghostkeel,blood_claws_10,fusion_collider_melta,guided,strength+1,stealth_rerolls,ap+1,0.12
+860,ghostkeel,bladeguard_veteran_squad_6,cyclic_ion_raker,no,no,no,no,0.08
+861,ghostkeel,bladeguard_veteran_squad_6,cyclic_ion_raker,guided,no,no,no,0.12
+862,ghostkeel,bladeguard_veteran_squad_6,cyclic_ion_raker,guided,strength+1,no,no,0.15
+863,ghostkeel,bladeguard_veteran_squad_6,cyclic_ion_raker,guided,strength+1,no,ap+1,0.11
+864,ghostkeel,bladeguard_veteran_squad_6,cyclic_ion_raker,guided,strength+1,stealth_rerolls,ap+1,0.19
+865,ghostkeel,bladeguard_veteran_squad_6,cyclic_ion_raker_overcharged,no,no,no,no,0.09
+866,ghostkeel,bladeguard_veteran_squad_6,cyclic_ion_raker_overcharged,guided,no,no,no,0.12
+867,ghostkeel,bladeguard_veteran_squad_6,cyclic_ion_raker_overcharged,guided,strength+1,no,no,0.13
+868,ghostkeel,bladeguard_veteran_squad_6,cyclic_ion_raker_overcharged,guided,strength+1,no,ap+1,0.13
+869,ghostkeel,bladeguard_veteran_squad_6,cyclic_ion_raker_overcharged,guided,strength+1,stealth_rerolls,ap+1,0.18
+870,ghostkeel,bladeguard_veteran_squad_6,fusion_collider,no,no,no,no,0.04
+871,ghostkeel,bladeguard_veteran_squad_6,fusion_collider,guided,no,no,no,0.04
+872,ghostkeel,bladeguard_veteran_squad_6,fusion_collider,guided,strength+1,no,no,0.03
+873,ghostkeel,bladeguard_veteran_squad_6,fusion_collider,guided,strength+1,no,ap+1,0.04
+874,ghostkeel,bladeguard_veteran_squad_6,fusion_collider,guided,strength+1,stealth_rerolls,ap+1,0.05
+875,ghostkeel,bladeguard_veteran_squad_6,fusion_collider_melta,no,no,no,no,0.06
+876,ghostkeel,bladeguard_veteran_squad_6,fusion_collider_melta,guided,no,no,no,0.04
+877,ghostkeel,bladeguard_veteran_squad_6,fusion_collider_melta,guided,strength+1,no,no,0.07
+878,ghostkeel,bladeguard_veteran_squad_6,fusion_collider_melta,guided,strength+1,no,ap+1,0.05
+879,ghostkeel,bladeguard_veteran_squad_6,fusion_collider_melta,guided,strength+1,stealth_rerolls,ap+1,0.07
+880,ghostkeel,terminator_squad_5,cyclic_ion_raker,no,no,no,no,0.09
+881,ghostkeel,terminator_squad_5,cyclic_ion_raker,guided,no,no,no,0.12
+882,ghostkeel,terminator_squad_5,cyclic_ion_raker,guided,strength+1,no,no,0.11
+883,ghostkeel,terminator_squad_5,cyclic_ion_raker,guided,strength+1,no,ap+1,0.19
+884,ghostkeel,terminator_squad_5,cyclic_ion_raker,guided,strength+1,stealth_rerolls,ap+1,0.27
+885,ghostkeel,terminator_squad_5,cyclic_ion_raker_overcharged,no,no,no,no,0.14
+886,ghostkeel,terminator_squad_5,cyclic_ion_raker_overcharged,guided,no,no,no,0.18
+887,ghostkeel,terminator_squad_5,cyclic_ion_raker_overcharged,guided,strength+1,no,no,0.22
+888,ghostkeel,terminator_squad_5,cyclic_ion_raker_overcharged,guided,strength+1,no,ap+1,0.17
+889,ghostkeel,terminator_squad_5,cyclic_ion_raker_overcharged,guided,strength+1,stealth_rerolls,ap+1,0.27
+890,ghostkeel,terminator_squad_5,fusion_collider,no,no,no,no,0.05
+891,ghostkeel,terminator_squad_5,fusion_collider,guided,no,no,no,0.06
+892,ghostkeel,terminator_squad_5,fusion_collider,guided,strength+1,no,no,0.05
+893,ghostkeel,terminator_squad_5,fusion_collider,guided,strength+1,no,ap+1,0.05
+894,ghostkeel,terminator_squad_5,fusion_collider,guided,strength+1,stealth_rerolls,ap+1,0.08
+895,ghostkeel,terminator_squad_5,fusion_collider_melta,no,no,no,no,0.06
+896,ghostkeel,terminator_squad_5,fusion_collider_melta,guided,no,no,no,0.09
+897,ghostkeel,terminator_squad_5,fusion_collider_melta,guided,strength+1,no,no,0.08
+898,ghostkeel,terminator_squad_5,fusion_collider_melta,guided,strength+1,no,ap+1,0.1
+899,ghostkeel,terminator_squad_5,fusion_collider_melta,guided,strength+1,stealth_rerolls,ap+1,0.15
+900,ghostkeel,wulfen_10,cyclic_ion_raker,no,no,no,no,0.11
+901,ghostkeel,wulfen_10,cyclic_ion_raker,guided,no,no,no,0.14
+902,ghostkeel,wulfen_10,cyclic_ion_raker,guided,strength+1,no,no,0.15
+903,ghostkeel,wulfen_10,cyclic_ion_raker,guided,strength+1,no,ap+1,0.18
+904,ghostkeel,wulfen_10,cyclic_ion_raker,guided,strength+1,stealth_rerolls,ap+1,0.27
+905,ghostkeel,wulfen_10,cyclic_ion_raker_overcharged,no,no,no,no,0.12
+906,ghostkeel,wulfen_10,cyclic_ion_raker_overcharged,guided,no,no,no,0.18
+907,ghostkeel,wulfen_10,cyclic_ion_raker_overcharged,guided,strength+1,no,no,0.18
+908,ghostkeel,wulfen_10,cyclic_ion_raker_overcharged,guided,strength+1,no,ap+1,0.18
+909,ghostkeel,wulfen_10,cyclic_ion_raker_overcharged,guided,strength+1,stealth_rerolls,ap+1,0.3
+910,ghostkeel,wulfen_10,fusion_collider,no,no,no,no,0.05
+911,ghostkeel,wulfen_10,fusion_collider,guided,no,no,no,0.07
+912,ghostkeel,wulfen_10,fusion_collider,guided,strength+1,no,no,0.08
+913,ghostkeel,wulfen_10,fusion_collider,guided,strength+1,no,ap+1,0.07
+914,ghostkeel,wulfen_10,fusion_collider,guided,strength+1,stealth_rerolls,ap+1,0.09
+915,ghostkeel,wulfen_10,fusion_collider_melta,no,no,no,no,0.07
+916,ghostkeel,wulfen_10,fusion_collider_melta,guided,no,no,no,0.09
+917,ghostkeel,wulfen_10,fusion_collider_melta,guided,strength+1,no,no,0.1
+918,ghostkeel,wulfen_10,fusion_collider_melta,guided,strength+1,no,ap+1,0.1
+919,ghostkeel,wulfen_10,fusion_collider_melta,guided,strength+1,stealth_rerolls,ap+1,0.11
+920,ghostkeel,thunderwolf_cavalry_6,cyclic_ion_raker,no,no,no,no,0.09
+921,ghostkeel,thunderwolf_cavalry_6,cyclic_ion_raker,guided,no,no,no,0.11
+922,ghostkeel,thunderwolf_cavalry_6,cyclic_ion_raker,guided,strength+1,no,no,0.12
+923,ghostkeel,thunderwolf_cavalry_6,cyclic_ion_raker,guided,strength+1,no,ap+1,0.09
+924,ghostkeel,thunderwolf_cavalry_6,cyclic_ion_raker,guided,strength+1,stealth_rerolls,ap+1,0.2
+925,ghostkeel,thunderwolf_cavalry_6,cyclic_ion_raker_overcharged,no,no,no,no,0.08
+926,ghostkeel,thunderwolf_cavalry_6,cyclic_ion_raker_overcharged,guided,no,no,no,0.12
+927,ghostkeel,thunderwolf_cavalry_6,cyclic_ion_raker_overcharged,guided,strength+1,no,no,0.14
+928,ghostkeel,thunderwolf_cavalry_6,cyclic_ion_raker_overcharged,guided,strength+1,no,ap+1,0.14
+929,ghostkeel,thunderwolf_cavalry_6,cyclic_ion_raker_overcharged,guided,strength+1,stealth_rerolls,ap+1,0.15
+930,ghostkeel,thunderwolf_cavalry_6,fusion_collider,no,no,no,no,0.03
+931,ghostkeel,thunderwolf_cavalry_6,fusion_collider,guided,no,no,no,0.03
+932,ghostkeel,thunderwolf_cavalry_6,fusion_collider,guided,strength+1,no,no,0.03
+933,ghostkeel,thunderwolf_cavalry_6,fusion_collider,guided,strength+1,no,ap+1,0.03
+934,ghostkeel,thunderwolf_cavalry_6,fusion_collider,guided,strength+1,stealth_rerolls,ap+1,0.05
+935,ghostkeel,thunderwolf_cavalry_6,fusion_collider_melta,no,no,no,no,0.06
+936,ghostkeel,thunderwolf_cavalry_6,fusion_collider_melta,guided,no,no,no,0.07
+937,ghostkeel,thunderwolf_cavalry_6,fusion_collider_melta,guided,strength+1,no,no,0.06
+938,ghostkeel,thunderwolf_cavalry_6,fusion_collider_melta,guided,strength+1,no,ap+1,0.05
+939,ghostkeel,thunderwolf_cavalry_6,fusion_collider_melta,guided,strength+1,stealth_rerolls,ap+1,0.08
+940,ghostkeel,brutalis_dreadnaught,cyclic_ion_raker,no,no,no,no,0.07
+941,ghostkeel,brutalis_dreadnaught,cyclic_ion_raker,guided,no,no,no,0.17
+942,ghostkeel,brutalis_dreadnaught,cyclic_ion_raker,guided,strength+1,no,no,0.13
+943,ghostkeel,brutalis_dreadnaught,cyclic_ion_raker,guided,strength+1,no,ap+1,0.19
+944,ghostkeel,brutalis_dreadnaught,cyclic_ion_raker,guided,strength+1,stealth_rerolls,ap+1,0.27
+945,ghostkeel,brutalis_dreadnaught,cyclic_ion_raker_overcharged,no,no,no,no,0.11
+946,ghostkeel,brutalis_dreadnaught,cyclic_ion_raker_overcharged,guided,no,no,no,0.2
+947,ghostkeel,brutalis_dreadnaught,cyclic_ion_raker_overcharged,guided,strength+1,no,no,0.18
+948,ghostkeel,brutalis_dreadnaught,cyclic_ion_raker_overcharged,guided,strength+1,no,ap+1,0.27
+949,ghostkeel,brutalis_dreadnaught,cyclic_ion_raker_overcharged,guided,strength+1,stealth_rerolls,ap+1,0.33
+950,ghostkeel,brutalis_dreadnaught,fusion_collider,no,no,no,no,0.18
+951,ghostkeel,brutalis_dreadnaught,fusion_collider,guided,no,no,no,0.25
+952,ghostkeel,brutalis_dreadnaught,fusion_collider,guided,strength+1,no,no,0.22
+953,ghostkeel,brutalis_dreadnaught,fusion_collider,guided,strength+1,no,ap+1,0.28
+954,ghostkeel,brutalis_dreadnaught,fusion_collider,guided,strength+1,stealth_rerolls,ap+1,0.34
+955,ghostkeel,brutalis_dreadnaught,fusion_collider_melta,no,no,no,no,0.25
+956,ghostkeel,brutalis_dreadnaught,fusion_collider_melta,guided,no,no,no,0.36
+957,ghostkeel,brutalis_dreadnaught,fusion_collider_melta,guided,strength+1,no,no,0.33
+958,ghostkeel,brutalis_dreadnaught,fusion_collider_melta,guided,strength+1,no,ap+1,0.41
+959,ghostkeel,brutalis_dreadnaught,fusion_collider_melta,guided,strength+1,stealth_rerolls,ap+1,0.55
+960,ghostkeel,wulfen_dreadnaught,cyclic_ion_raker,no,no,no,no,0.11
+961,ghostkeel,wulfen_dreadnaught,cyclic_ion_raker,guided,no,no,no,0.17
+962,ghostkeel,wulfen_dreadnaught,cyclic_ion_raker,guided,strength+1,no,no,0.15
+963,ghostkeel,wulfen_dreadnaught,cyclic_ion_raker,guided,strength+1,no,ap+1,0.22
+964,ghostkeel,wulfen_dreadnaught,cyclic_ion_raker,guided,strength+1,stealth_rerolls,ap+1,0.33
+965,ghostkeel,wulfen_dreadnaught,cyclic_ion_raker_overcharged,no,no,no,no,0.14
+966,ghostkeel,wulfen_dreadnaught,cyclic_ion_raker_overcharged,guided,no,no,no,0.21
+967,ghostkeel,wulfen_dreadnaught,cyclic_ion_raker_overcharged,guided,strength+1,no,no,0.29
+968,ghostkeel,wulfen_dreadnaught,cyclic_ion_raker_overcharged,guided,strength+1,no,ap+1,0.37
+969,ghostkeel,wulfen_dreadnaught,cyclic_ion_raker_overcharged,guided,strength+1,stealth_rerolls,ap+1,0.43
+970,ghostkeel,wulfen_dreadnaught,fusion_collider,no,no,no,no,0.08
+971,ghostkeel,wulfen_dreadnaught,fusion_collider,guided,no,no,no,0.15
+972,ghostkeel,wulfen_dreadnaught,fusion_collider,guided,strength+1,no,no,0.17
+973,ghostkeel,wulfen_dreadnaught,fusion_collider,guided,strength+1,no,ap+1,0.18
+974,ghostkeel,wulfen_dreadnaught,fusion_collider,guided,strength+1,stealth_rerolls,ap+1,0.17
+975,ghostkeel,wulfen_dreadnaught,fusion_collider_melta,no,no,no,no,0.2
+976,ghostkeel,wulfen_dreadnaught,fusion_collider_melta,guided,no,no,no,0.23
+977,ghostkeel,wulfen_dreadnaught,fusion_collider_melta,guided,strength+1,no,no,0.25
+978,ghostkeel,wulfen_dreadnaught,fusion_collider_melta,guided,strength+1,no,ap+1,0.22
+979,ghostkeel,wulfen_dreadnaught,fusion_collider_melta,guided,strength+1,stealth_rerolls,ap+1,0.34
+980,ghostkeel,eliminators_3,cyclic_ion_raker,no,no,no,no,0.32
+981,ghostkeel,eliminators_3,cyclic_ion_raker,guided,no,no,no,0.33
+982,ghostkeel,eliminators_3,cyclic_ion_raker,guided,strength+1,no,no,0.36
+983,ghostkeel,eliminators_3,cyclic_ion_raker,guided,strength+1,no,ap+1,0.5
+984,ghostkeel,eliminators_3,cyclic_ion_raker,guided,strength+1,stealth_rerolls,ap+1,0.62
+985,ghostkeel,eliminators_3,cyclic_ion_raker_overcharged,no,no,no,no,0.38
+986,ghostkeel,eliminators_3,cyclic_ion_raker_overcharged,guided,no,no,no,0.5
+987,ghostkeel,eliminators_3,cyclic_ion_raker_overcharged,guided,strength+1,no,no,0.5
+988,ghostkeel,eliminators_3,cyclic_ion_raker_overcharged,guided,strength+1,no,ap+1,0.55
+989,ghostkeel,eliminators_3,cyclic_ion_raker_overcharged,guided,strength+1,stealth_rerolls,ap+1,0.76
+990,ghostkeel,eliminators_3,fusion_collider,no,no,no,no,0.16
+991,ghostkeel,eliminators_3,fusion_collider,guided,no,no,no,0.29
+992,ghostkeel,eliminators_3,fusion_collider,guided,strength+1,no,no,0.21
+993,ghostkeel,eliminators_3,fusion_collider,guided,strength+1,no,ap+1,0.28
+994,ghostkeel,eliminators_3,fusion_collider,guided,strength+1,stealth_rerolls,ap+1,0.37
+995,ghostkeel,eliminators_3,fusion_collider_melta,no,no,no,no,0.23
+996,ghostkeel,eliminators_3,fusion_collider_melta,guided,no,no,no,0.34
+997,ghostkeel,eliminators_3,fusion_collider_melta,guided,strength+1,no,no,0.3
+998,ghostkeel,eliminators_3,fusion_collider_melta,guided,strength+1,no,ap+1,0.32
+999,ghostkeel,eliminators_3,fusion_collider_melta,guided,strength+1,stealth_rerolls,ap+1,0.43
+1000,ghostkeel,eredicators_3,cyclic_ion_raker,no,no,no,no,0.23
+1001,ghostkeel,eredicators_3,cyclic_ion_raker,guided,no,no,no,0.29
+1002,ghostkeel,eredicators_3,cyclic_ion_raker,guided,strength+1,no,no,0.31
+1003,ghostkeel,eredicators_3,cyclic_ion_raker,guided,strength+1,no,ap+1,0.43
+1004,ghostkeel,eredicators_3,cyclic_ion_raker,guided,strength+1,stealth_rerolls,ap+1,0.55
+1005,ghostkeel,eredicators_3,cyclic_ion_raker_overcharged,no,no,no,no,0.33
+1006,ghostkeel,eredicators_3,cyclic_ion_raker_overcharged,guided,no,no,no,0.38
+1007,ghostkeel,eredicators_3,cyclic_ion_raker_overcharged,guided,strength+1,no,no,0.41
+1008,ghostkeel,eredicators_3,cyclic_ion_raker_overcharged,guided,strength+1,no,ap+1,0.56
+1009,ghostkeel,eredicators_3,cyclic_ion_raker_overcharged,guided,strength+1,stealth_rerolls,ap+1,0.7
+1010,ghostkeel,eredicators_3,fusion_collider,no,no,no,no,0.16
+1011,ghostkeel,eredicators_3,fusion_collider,guided,no,no,no,0.21
+1012,ghostkeel,eredicators_3,fusion_collider,guided,strength+1,no,no,0.19
+1013,ghostkeel,eredicators_3,fusion_collider,guided,strength+1,no,ap+1,0.16
+1014,ghostkeel,eredicators_3,fusion_collider,guided,strength+1,stealth_rerolls,ap+1,0.26
+1015,ghostkeel,eredicators_3,fusion_collider_melta,no,no,no,no,0.21
+1016,ghostkeel,eredicators_3,fusion_collider_melta,guided,no,no,no,0.33
+1017,ghostkeel,eredicators_3,fusion_collider_melta,guided,strength+1,no,no,0.29
+1018,ghostkeel,eredicators_3,fusion_collider_melta,guided,strength+1,no,ap+1,0.24
+1019,ghostkeel,eredicators_3,fusion_collider_melta,guided,strength+1,stealth_rerolls,ap+1,0.42
+1020,ghostkeel,invictor_tactical warsuit,cyclic_ion_raker,no,no,no,no,0.13
+1021,ghostkeel,invictor_tactical warsuit,cyclic_ion_raker,guided,no,no,no,0.17
+1022,ghostkeel,invictor_tactical warsuit,cyclic_ion_raker,guided,strength+1,no,no,0.26
+1023,ghostkeel,invictor_tactical warsuit,cyclic_ion_raker,guided,strength+1,no,ap+1,0.31
+1024,ghostkeel,invictor_tactical warsuit,cyclic_ion_raker,guided,strength+1,stealth_rerolls,ap+1,0.43
+1025,ghostkeel,invictor_tactical warsuit,cyclic_ion_raker_overcharged,no,no,no,no,0.32
+1026,ghostkeel,invictor_tactical warsuit,cyclic_ion_raker_overcharged,guided,no,no,no,0.37
+1027,ghostkeel,invictor_tactical warsuit,cyclic_ion_raker_overcharged,guided,strength+1,no,no,0.5
+1028,ghostkeel,invictor_tactical warsuit,cyclic_ion_raker_overcharged,guided,strength+1,no,ap+1,0.62
+1029,ghostkeel,invictor_tactical warsuit,cyclic_ion_raker_overcharged,guided,strength+1,stealth_rerolls,ap+1,0.7
+1030,ghostkeel,invictor_tactical warsuit,fusion_collider,no,no,no,no,0.16
+1031,ghostkeel,invictor_tactical warsuit,fusion_collider,guided,no,no,no,0.23
+1032,ghostkeel,invictor_tactical warsuit,fusion_collider,guided,strength+1,no,no,0.23
+1033,ghostkeel,invictor_tactical warsuit,fusion_collider,guided,strength+1,no,ap+1,0.23
+1034,ghostkeel,invictor_tactical warsuit,fusion_collider,guided,strength+1,stealth_rerolls,ap+1,0.32
+1035,ghostkeel,invictor_tactical warsuit,fusion_collider_melta,no,no,no,no,0.32
+1036,ghostkeel,invictor_tactical warsuit,fusion_collider_melta,guided,no,no,no,0.38
+1037,ghostkeel,invictor_tactical warsuit,fusion_collider_melta,guided,strength+1,no,no,0.36
+1038,ghostkeel,invictor_tactical warsuit,fusion_collider_melta,guided,strength+1,no,ap+1,0.43
+1039,ghostkeel,invictor_tactical warsuit,fusion_collider_melta,guided,strength+1,stealth_rerolls,ap+1,0.52
+1040,ghostkeel,bjoern_the_fell_handed,cyclic_ion_raker,no,no,no,no,0.05
+1041,ghostkeel,bjoern_the_fell_handed,cyclic_ion_raker,guided,no,no,no,0.07
+1042,ghostkeel,bjoern_the_fell_handed,cyclic_ion_raker,guided,strength+1,no,no,0.1
+1043,ghostkeel,bjoern_the_fell_handed,cyclic_ion_raker,guided,strength+1,no,ap+1,0.12
+1044,ghostkeel,bjoern_the_fell_handed,cyclic_ion_raker,guided,strength+1,stealth_rerolls,ap+1,0.17
+1045,ghostkeel,bjoern_the_fell_handed,cyclic_ion_raker_overcharged,no,no,no,no,0.11
+1046,ghostkeel,bjoern_the_fell_handed,cyclic_ion_raker_overcharged,guided,no,no,no,0.12
+1047,ghostkeel,bjoern_the_fell_handed,cyclic_ion_raker_overcharged,guided,strength+1,no,no,0.2
+1048,ghostkeel,bjoern_the_fell_handed,cyclic_ion_raker_overcharged,guided,strength+1,no,ap+1,0.21
+1049,ghostkeel,bjoern_the_fell_handed,cyclic_ion_raker_overcharged,guided,strength+1,stealth_rerolls,ap+1,0.28
+1050,ghostkeel,bjoern_the_fell_handed,fusion_collider,no,no,no,no,0.1
+1051,ghostkeel,bjoern_the_fell_handed,fusion_collider,guided,no,no,no,0.12
+1052,ghostkeel,bjoern_the_fell_handed,fusion_collider,guided,strength+1,no,no,0.12
+1053,ghostkeel,bjoern_the_fell_handed,fusion_collider,guided,strength+1,no,ap+1,0.17
+1054,ghostkeel,bjoern_the_fell_handed,fusion_collider,guided,strength+1,stealth_rerolls,ap+1,0.24
+1055,ghostkeel,bjoern_the_fell_handed,fusion_collider_melta,no,no,no,no,0.13
+1056,ghostkeel,bjoern_the_fell_handed,fusion_collider_melta,guided,no,no,no,0.19
+1057,ghostkeel,bjoern_the_fell_handed,fusion_collider_melta,guided,strength+1,no,no,0.17
+1058,ghostkeel,bjoern_the_fell_handed,fusion_collider_melta,guided,strength+1,no,ap+1,0.22
+1059,ghostkeel,bjoern_the_fell_handed,fusion_collider_melta,guided,strength+1,stealth_rerolls,ap+1,0.3
+1060,ghostkeel,stormwolf,cyclic_ion_raker,no,no,no,no,0.11
+1061,ghostkeel,stormwolf,cyclic_ion_raker,guided,no,no,no,0.17
+1062,ghostkeel,stormwolf,cyclic_ion_raker,guided,strength+1,no,no,0.2
+1063,ghostkeel,stormwolf,cyclic_ion_raker,guided,strength+1,no,ap+1,0.27
+1064,ghostkeel,stormwolf,cyclic_ion_raker,guided,strength+1,stealth_rerolls,ap+1,0.3
+1065,ghostkeel,stormwolf,cyclic_ion_raker_overcharged,no,no,no,no,0.17
+1066,ghostkeel,stormwolf,cyclic_ion_raker_overcharged,guided,no,no,no,0.21
+1067,ghostkeel,stormwolf,cyclic_ion_raker_overcharged,guided,strength+1,no,no,0.18
+1068,ghostkeel,stormwolf,cyclic_ion_raker_overcharged,guided,strength+1,no,ap+1,0.32
+1069,ghostkeel,stormwolf,cyclic_ion_raker_overcharged,guided,strength+1,stealth_rerolls,ap+1,0.38
+1070,ghostkeel,stormwolf,fusion_collider,no,no,no,no,0.16
+1071,ghostkeel,stormwolf,fusion_collider,guided,no,no,no,0.22
+1072,ghostkeel,stormwolf,fusion_collider,guided,strength+1,no,no,0.24
+1073,ghostkeel,stormwolf,fusion_collider,guided,strength+1,no,ap+1,0.22
+1074,ghostkeel,stormwolf,fusion_collider,guided,strength+1,stealth_rerolls,ap+1,0.29
+1075,ghostkeel,stormwolf,fusion_collider_melta,no,no,no,no,0.3
+1076,ghostkeel,stormwolf,fusion_collider_melta,guided,no,no,no,0.32
+1077,ghostkeel,stormwolf,fusion_collider_melta,guided,strength+1,no,no,0.33
+1078,ghostkeel,stormwolf,fusion_collider_melta,guided,strength+1,no,ap+1,0.3
+1079,ghostkeel,stormwolf,fusion_collider_melta,guided,strength+1,stealth_rerolls,ap+1,0.44
